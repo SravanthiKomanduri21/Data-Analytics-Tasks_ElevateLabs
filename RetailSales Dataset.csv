@@ -1,0 +1,1001 @@
+Order_ID,Date,Customer_ID,Gender,Age,Product Category,Product Name,Quantity,Price per unit,Total Amount,Region,Country,Order_Status
+ORD001,24-11-2023,CUST001,Male,34,Electronics,Smart Watch,3,50,150,South,India,Delivered
+ORD002,27-02-2023,CUST002,Female,26,Electronics,Power Bank,2,500,1000,West,Australia,Returned
+ORD003,13-01-2023,CUST003,Male,50,Beauty,Perfume,1,30,300,South,India,Delivered
+ORD004,21-05-2023,CUST004,Male,37,Electronics,Smartphone,1,500,15000,North,India,Cancelled
+ORD005,06-05-2023,CUST005,Male,30,Fashion,Jeans,2,50,100,South,India,Delivered
+ORD006,25-04-2023,CUST006,Female,45,Grocery,Salt,1,30,30,Central,USA,Delivered
+ORD007,13-03-2023,CUST007,Male,46,Health,Protein Powder,2,25,500,South,USA,Delivered
+ORD008,22-02-2023,CUST008,Male,30,Health,Protein Powder,4,25,100,South,Canada,Delivered
+ORD009,13-12-2023,CUST009,Male,63,Beauty,Shampoo,2,300,600,South,Canada,Delivered
+ORD010,07-10-2023,CUST010,Female,52,Electronics,Smart Watch,4,50,200,North,Australia,Delivered
+ORD011,14-02-2023,CUST011,Male,23,Health,Vitamin Tablets,2,50,100,North,Canada,Returned
+ORD012,30-10-2023,CUST012,Male,35,Grocery,Sugar 1kg,3,25,75,North,India,Delivered
+ORD013,05-08-2023,CUST013,Male,22,Fashion,Women Kurti,3,500,1500,West,India,Delivered
+ORD014,17-01-2023,CUST014,Male,64,Health,Digital Thermometer,4,30,120,North,Germany,Delivered
+ORD015,16-01-2023,CUST015,Female,42,Beauty,Perfume,4,500,2000,South,Germany,Delivered
+ORD016,17-02-2023,CUST016,Male,19,Fashion,Jacket,3,500,1500,South,India,Delivered
+ORD017,22-04-2023,CUST017,Female,27,Electronics,Smart Watch,4,25,100,East,USA,Cancelled
+ORD018,30-04-2023,CUST018,Female,47,Electronics,Power Bank,2,25,50,North,India,Delivered
+ORD019,16-09-2023,CUST019,Female,62,Health,Mass Gainer,2,25,50,West,USA,Cancelled
+ORD020,05-11-2023,CUST020,Male,22,Health,Mass Gainer,3,300,900,East,India,Delivered
+ORD021,14-01-2023,CUST021,Female,50,Home,Mixer Grinder,1,500,500,West,Canada,Delivered
+ORD022,15-10-2023,CUST022,Male,18,Electronics,Bluetooth Speaker,2,50,100,West,Australia,Delivered
+ORD023,12-04-2023,CUST023,Female,35,Electronics,Headphones,4,30,120,West,India,Delivered
+ORD024,29-11-2023,CUST024,Female,49,Fashion,Women Kurti,1,300,300,North,Canada,Delivered
+ORD025,26-12-2023,CUST025,Female,64,Electronics,Headphones,1,50,50,Central,India,Cancelled
+ORD026,07-10-2023,CUST026,Female,28,Stationery,Marker Set,2,500,1000,North,India,Delivered
+ORD027,03-08-2023,CUST027,Female,38,Health,Mass Gainer,2,25,50,East,India,Delivered
+ORD028,23-04-2023,CUST028,Female,43,Electronics,Power Bank,1,500,500,North,Australia,Delivered
+ORD029,18-08-2023,CUST029,Female,42,Electronics,Smartphone,1,30,30,South,Canada,Returned
+ORD030,29-10-2023,CUST030,Female,39,Health,Protein Powder,3,300,900,North,India,Returned
+ORD031,23-05-2023,CUST031,Male,44,Fashion,Women Kurti,4,300,1200,East,India,Returned
+ORD032,04-01-2023,CUST032,Male,30,Grocery,Sugar 1kg,3,30,90,North,USA,Delivered
+ORD033,23-03-2023,CUST033,Female,50,Electronics,Smartphone,2,50,100,Central,USA,Delivered
+ORD034,24-12-2023,CUST034,Female,51,Health,Hand Sanitizer,3,50,150,South,India,Delivered
+ORD035,05-08-2023,CUST035,Female,58,Fashion,Handbag,3,300,900,East,India,Cancelled
+ORD036,24-06-2023,CUST036,Male,52,Grocery,Basmati Rice 5kg,3,300,900,North,Germany,Delivered
+ORD037,23-05-2023,CUST037,Female,18,Electronics,Headphones,3,25,75,North,Canada,Cancelled
+ORD038,21-03-2023,CUST038,Male,38,Electronics,Smartphone,4,50,200,East,Australia,Delivered
+ORD039,21-04-2023,CUST039,Male,23,Electronics,Power Bank,4,30,120,East,India,Returned
+ORD040,22-06-2023,CUST040,Male,45,Fashion,Women Kurti,1,50,50,Central,Canada,Delivered
+ORD041,22-02-2023,CUST041,Male,34,Electronics,Power Bank,2,25,50,East,Canada,Delivered
+ORD042,17-02-2023,CUST042,Male,22,Health,Protein Powder,3,300,900,North,India,Delivered
+ORD043,14-07-2023,CUST043,Female,48,Beauty,Perfume,1,300,300,West,USA,Delivered
+ORD044,19-02-2023,CUST044,Female,22,Fashion,Jacket,1,25,25,North,Australia,Delivered
+ORD045,03-07-2023,CUST045,Female,55,Fashion,Handbag,1,30,30,West,India,Delivered
+ORD046,26-06-2023,CUST046,Female,20,Fashion,Jeans,4,300,1200,South,Canada,Delivered
+ORD047,06-11-2023,CUST047,Female,40,Beauty,Moisturizer,3,500,1500,West,Germany,Delivered
+ORD048,16-05-2023,CUST048,Male,54,Grocery,Wheat Flour 5kg,3,300,900,North,Australia,Delivered
+ORD049,23-01-2023,CUST049,Female,54,Fashion,Handbag,2,500,1000,South,Australia,Delivered
+ORD050,24-08-2023,CUST050,Female,27,Fashion,Men T-Shirt,3,25,75,North,India,Delivered
+ORD051,02-10-2023,CUST051,Male,27,Beauty,Shampoo,3,25,75,South,India,Delivered
+ORD052,05-03-2023,CUST052,Female,36,Home,Bedsheet,1,300,300,South,India,Cancelled
+ORD053,13-07-2023,CUST053,Male,34,Home,Pressure Cooker,2,50,100,West,Canada,Delivered
+ORD054,10-02-2023,CUST054,Female,38,Grocery,Basmati Rice 5kg,3,500,1500,North,Canada,Delivered
+ORD055,10-10-2023,CUST055,Male,31,Beauty,Sunscreen,4,30,120,West,Australia,Delivered
+ORD056,31-05-2023,CUST056,Female,26,Fashion,Women Kurti,3,300,900,West,USA,Delivered
+ORD057,18-11-2023,CUST057,Female,63,Electronics,Bluetooth Speaker,1,30,30,Central,India,Cancelled
+ORD058,13-11-2023,CUST058,Male,18,Electronics,Smartphone,4,300,1200,East,Canada,Delivered
+ORD059,05-07-2023,CUST059,Male,62,Electronics,Smart Watch,1,50,50,North,Germany,Delivered
+ORD060,23-10-2023,CUST060,Male,30,Health,BP Monitor,3,50,150,East,India,Delivered
+ORD061,09-04-2023,CUST061,Male,21,Fashion,Handbag,4,50,200,South,USA,Delivered
+ORD062,27-12-2023,CUST062,Male,18,Electronics,Power Bank,2,50,100,East,India,Returned
+ORD063,05-02-2023,CUST063,Male,57,Home,Wall Clock,2,25,50,North,USA,Cancelled
+ORD064,24-01-2023,CUST064,Male,49,Beauty,Moisturizer,4,25,100,West,USA,Delivered
+ORD065,05-12-2023,CUST065,Male,51,Fashion,Women Kurti,4,500,2000,Central,USA,Delivered
+ORD066,27-04-2023,CUST066,Female,45,Grocery,Wheat Flour 5kg,1,30,30,East,USA,Delivered
+ORD067,29-05-2023,CUST067,Female,48,Electronics,Bluetooth Speaker,4,300,1200,East,USA,Delivered
+ORD068,10-02-2023,CUST068,Male,25,Electronics,Headphones,1,300,300,West,USA,Returned
+ORD069,30-04-2023,CUST069,Female,56,Fashion,Jacket,3,25,75,Central,India,Cancelled
+ORD070,21-02-2023,CUST070,Female,43,Electronics,Bluetooth Speaker,1,300,300,North,India,Delivered
+ORD071,14-07-2023,CUST071,Female,51,Home,Mixer Grinder,4,25,100,South,Canada,Delivered
+ORD072,23-05-2023,CUST072,Female,20,Home,Pressure Cooker,4,500,2000,North,Germany,Cancelled
+ORD073,21-08-2023,CUST073,Male,29,Electronics,Headphones,3,30,90,North,Germany,Delivered
+ORD074,22-11-2023,CUST074,Female,18,Electronics,Headphones,4,500,2000,East,Australia,Delivered
+ORD075,06-07-2023,CUST075,Male,61,Home,Bedsheet,4,50,200,North,Australia,Delivered
+ORD076,25-03-2023,CUST076,Female,22,Electronics,Smart Watch,2,50,100,South,Germany,Delivered
+ORD077,09-07-2023,CUST077,Female,47,Grocery,Basmati Rice 5kg,2,50,100,East,USA,Delivered
+ORD078,01-07-2023,CUST078,Female,47,Electronics,Laptop,3,500,1500,East,Germany,Delivered
+ORD079,18-04-2023,CUST079,Male,34,Electronics,Smart Watch,1,300,300,West,Canada,Delivered
+ORD080,10-12-2023,CUST080,Female,64,Beauty,Face Wash,2,30,60,North,Canada,Delivered
+ORD081,17-05-2023,CUST081,Male,40,Fashion,Men T-Shirt,1,50,50,South,India,Delivered
+ORD082,26-12-2023,CUST082,Female,32,Fashion,Women Kurti,4,50,200,South,India,Delivered
+ORD083,16-12-2023,CUST083,Male,54,Beauty,Moisturizer,2,50,100,East,India,Delivered
+ORD084,28-11-2023,CUST084,Female,38,Fashion,Sneakers,3,30,90,East,USA,Cancelled
+ORD085,06-02-2023,CUST085,Male,31,Health,Mass Gainer,3,50,150,East,Germany,Delivered
+ORD086,08-11-2023,CUST086,Male,19,Electronics,Smartphone,3,30,90,West,Australia,Delivered
+ORD087,22-11-2023,CUST087,Female,28,Grocery,Wheat Flour 5kg,2,50,100,North,USA,Delivered
+ORD088,29-03-2023,CUST088,Male,56,Health,Vitamin Tablets,1,500,500,Central,USA,Cancelled
+ORD089,01-10-2023,CUST089,Female,55,Fashion,Handbag,4,500,2000,East,Canada,Delivered
+ORD090,06-05-2023,CUST090,Female,51,Beauty,Perfume,1,30,30,Central,USA,Cancelled
+ORD091,25-03-2023,CUST091,Female,55,Electronics,Bluetooth Speaker,1,500,500,South,India,Delivered
+ORD092,25-08-2023,CUST092,Female,51,Home,Bedsheet,4,30,120,North,India,Delivered
+ORD093,14-07-2023,CUST093,Female,35,Electronics,Power Bank,4,500,2000,East,Germany,Delivered
+ORD094,19-05-2023,CUST094,Female,47,Electronics,Smartphone,2,500,1000,North,Germany,Delivered
+ORD095,24-11-2023,CUST095,Female,32,Fashion,Sneakers,2,30,60,West,India,Returned
+ORD096,19-12-2023,CUST096,Female,44,Electronics,Headphones,2,300,600,North,USA,Delivered
+ORD097,13-10-2023,CUST097,Female,51,Grocery,Dry Fruits Pack,2,500,1000,North,Canada,Delivered
+ORD098,23-04-2023,CUST098,Female,55,Fashion,Sneakers,2,50,100,North,Germany,Delivered
+ORD099,17-12-2023,CUST099,Female,50,Electronics,Laptop,4,300,1200,North,Germany,Delivered
+ORD100,16-06-2023,CUST100,Male,41,Beauty,Lipstick,1,30,30,West,USA,Delivered
+ORD101,29-01-2023,CUST101,Male,32,Grocery,Sugar 1kg,2,300,600,South,India,Returned
+ORD102,28-04-2023,CUST102,Female,47,Electronics,Smart Watch,2,25,50,North,Canada,Delivered
+ORD103,17-01-2023,CUST103,Female,59,Electronics,Power Bank,1,25,25,North,USA,Cancelled
+ORD104,11-06-2023,CUST104,Female,34,Fashion,Handbag,2,500,1000,East,Australia,Returned
+ORD105,25-07-2023,CUST105,Female,22,Electronics,Bluetooth Speaker,1,500,500,Central,India,Cancelled
+ORD106,18-05-2023,CUST106,Female,46,Electronics,Laptop,1,50,50,North,India,Cancelled
+ORD107,03-02-2023,CUST107,Female,21,Fashion,Jacket,4,300,1200,South,India,Delivered
+ORD108,19-04-2023,CUST108,Female,27,Electronics,Smart Watch,3,25,75,Central,Germany,Delivered
+ORD109,18-10-2023,CUST109,Female,34,Beauty,Lipstick,4,500,2000,South,Germany,Delivered
+ORD110,11-06-2023,CUST110,Male,27,Grocery,Wheat Flour 5kg,3,300,900,Central,Australia,Delivered
+ORD111,19-04-2023,CUST111,Female,34,Grocery,Basmati Rice 5kg,3,500,1500,North,India,Delivered
+ORD112,02-12-2023,CUST112,Male,37,Health,BP Monitor,3,500,1500,South,Germany,Delivered
+ORD113,13-09-2023,CUST113,Female,41,Electronics,Smartphone,2,25,50,North,India,Delivered
+ORD114,22-07-2023,CUST114,Female,22,Fashion,Women Kurti,4,25,100,North,Germany,Delivered
+ORD115,26-11-2023,CUST115,Male,51,Stationery,Notebook Pack,3,500,1500,South,India,Delivered
+ORD116,23-08-2023,CUST116,Female,23,Electronics,Smartphone,1,30,30,Central,USA,Cancelled
+ORD117,15-03-2023,CUST117,Male,19,Grocery,Wheat Flour 5kg,2,500,1000,East,USA,Delivered
+ORD118,16-05-2023,CUST118,Female,30,Health,Hand Sanitizer,4,500,2000,North,USA,Cancelled
+ORD119,13-03-2023,CUST119,Female,60,Grocery,Sugar 1kg,3,50,150,South,India,Delivered
+ORD120,07-05-2023,CUST120,Male,60,Fashion,Women Kurti,1,50,50,East,India,Delivered
+ORD121,15-10-2023,CUST121,Female,28,Fashion,Handbag,4,50,200,West,India,Delivered
+ORD122,03-10-2023,CUST122,Male,64,Stationery,Desk Organizer,4,30,120,Central,Germany,Delivered
+ORD123,15-05-2023,CUST123,Female,40,Electronics,Headphones,2,30,60,South,Germany,Delivered
+ORD124,27-10-2023,CUST124,Male,33,Grocery,Sugar 1kg,4,500,2000,West,Canada,Delivered
+ORD125,08-08-2023,CUST125,Male,48,Beauty,Moisturizer,2,50,100,West,India,Delivered
+ORD126,26-10-2023,CUST126,Female,28,Beauty,Face Wash,3,30,90,West,Australia,Cancelled
+ORD127,24-07-2023,CUST127,Female,33,Grocery,Basmati Rice 5kg,2,25,50,South,Canada,Delivered
+ORD128,05-07-2023,CUST128,Male,25,Fashion,Men T-Shirt,1,500,500,North,Australia,Delivered
+ORD129,23-04-2023,CUST129,Female,21,Fashion,Sneakers,2,300,600,South,USA,Delivered
+ORD130,12-03-2023,CUST130,Female,57,Fashion,Handbag,1,500,500,Central,USA,Delivered
+ORD131,18-09-2023,CUST131,Female,21,Electronics,Bluetooth Speaker,2,300,600,South,India,Cancelled
+ORD132,10-09-2023,CUST132,Male,42,Fashion,Sneakers,4,50,200,South,Canada,Cancelled
+ORD133,16-02-2023,CUST133,Male,20,Fashion,Women Kurti,3,300,900,North,Germany,Cancelled
+ORD134,25-01-2023,CUST134,Male,49,Health,Hand Sanitizer,1,50,50,North,USA,Delivered
+ORD135,26-02-2023,CUST135,Male,20,Electronics,Smartphone,2,25,50,Central,Canada,Delivered
+ORD136,20-03-2023,CUST136,Male,44,Stationery,Printer Paper,2,300,600,Central,India,Cancelled
+ORD137,18-11-2023,CUST137,Male,46,Electronics,Headphones,2,500,1000,North,India,Delivered
+ORD138,23-03-2023,CUST138,Male,49,Electronics,Bluetooth Speaker,4,50,200,West,India,Delivered
+ORD139,15-12-2023,CUST139,Male,36,Home,Mixer Grinder,4,500,2000,North,India,Delivered
+ORD140,05-08-2023,CUST140,Male,38,Electronics,Smartphone,1,30,30,East,USA,Delivered
+ORD141,02-11-2023,CUST141,Female,22,Electronics,Power Bank,1,50,50,Central,Germany,Delivered
+ORD142,02-02-2023,CUST142,Male,35,Fashion,Women Kurti,4,300,1200,North,India,Cancelled
+ORD143,17-07-2023,CUST143,Female,45,Beauty,Face Wash,1,50,50,West,Canada,Delivered
+ORD144,15-07-2023,CUST144,Female,59,Beauty,Moisturizer,3,500,1500,West,USA,Delivered
+ORD145,02-11-2023,CUST145,Female,39,Fashion,Jeans,3,25,75,Central,Germany,Delivered
+ORD146,28-08-2023,CUST146,Male,38,Fashion,Women Kurti,4,50,200,North,Australia,Returned
+ORD147,28-09-2023,CUST147,Male,23,Electronics,Power Bank,1,300,300,South,Australia,Delivered
+ORD148,09-05-2023,CUST148,Male,18,Electronics,Smartphone,2,30,60,North,Germany,Delivered
+ORD149,11-10-2023,CUST149,Male,22,Electronics,Smart Watch,3,25,75,North,USA,Delivered
+ORD150,06-01-2023,CUST150,Female,58,Fashion,Jacket,4,30,120,South,India,Cancelled
+ORD151,15-12-2023,CUST151,Male,29,Electronics,Power Bank,1,50,50,North,India,Delivered
+ORD152,28-02-2023,CUST152,Male,43,Electronics,Smartphone,4,500,2000,South,India,Delivered
+ORD153,16-12-2023,CUST153,Male,63,Health,BP Monitor,2,500,1000,Central,Canada,Delivered
+ORD154,02-10-2023,CUST154,Male,51,Beauty,Moisturizer,3,300,900,North,Germany,Delivered
+ORD155,17-05-2023,CUST155,Male,31,Electronics,Laptop,4,500,2000,South,Australia,Cancelled
+ORD156,25-11-2023,CUST156,Female,43,Fashion,Jacket,4,25,100,South,USA,Delivered
+ORD157,24-06-2023,CUST157,Male,62,Electronics,Laptop,4,500,2000,North,Canada,Delivered
+ORD158,27-02-2023,CUST158,Female,44,Electronics,Laptop,2,300,600,South,Canada,Delivered
+ORD159,31-05-2023,CUST159,Male,26,Electronics,Bluetooth Speaker,4,50,200,South,Australia,Delivered
+ORD160,11-08-2023,CUST160,Female,43,Fashion,Jeans,2,50,100,North,Canada,Delivered
+ORD161,22-03-2023,CUST161,Male,64,Beauty,Shampoo,2,500,1000,North,Australia,Delivered
+ORD162,21-08-2023,CUST162,Male,39,Grocery,Cooking Oil 1L,2,30,60,South,Germany,Delivered
+ORD163,02-01-2023,CUST163,Female,64,Grocery,Wheat Flour 5kg,3,50,150,Central,USA,Returned
+ORD164,15-05-2023,CUST164,Female,47,Fashion,Handbag,3,500,1500,North,Germany,Delivered
+ORD165,14-09-2023,CUST165,Female,60,Grocery,Tea Powder,4,300,1200,East,Canada,Delivered
+ORD166,02-04-2023,CUST166,Male,34,Stationery,Marker Set,4,500,2000,South,USA,Delivered
+ORD167,17-09-2023,CUST167,Female,43,Fashion,Men T-Shirt,3,50,150,North,USA,Delivered
+ORD168,24-02-2023,CUST168,Male,53,Health,BP Monitor,1,300,300,North,Germany,Returned
+ORD169,17-11-2023,CUST169,Male,18,Home,LED Bulb Pack,3,500,1500,East,India,Delivered
+ORD170,02-06-2023,CUST170,Female,25,Home,Bedsheet,2,25,50,West,Germany,Delivered
+ORD171,24-11-2023,CUST171,Female,52,Electronics,Headphones,3,300,900,North,India,Delivered
+ORD172,17-09-2023,CUST172,Male,32,Electronics,Headphones,2,25,50,Central,India,Delivered
+ORD173,08-11-2023,CUST173,Male,64,Health,Hand Sanitizer,4,30,120,North,Australia,Cancelled
+ORD174,12-04-2023,CUST174,Female,39,Stationery,Desk Organizer,1,300,300,South,USA,Delivered
+ORD175,20-03-2023,CUST175,Female,31,Electronics,Bluetooth Speaker,4,25,100,North,USA,Delivered
+ORD176,11-07-2023,CUST176,Female,43,Electronics,Smart Watch,2,50,100,West,India,Delivered
+ORD177,24-03-2023,CUST177,Male,45,Grocery,Tea Powder,2,50,100,South,USA,Delivered
+ORD178,04-10-2023,CUST178,Male,40,Stationery,Office Files,2,30,60,North,Germany,Delivered
+ORD179,29-09-2023,CUST179,Male,31,Fashion,Jeans,1,300,300,East,Australia,Cancelled
+ORD180,01-01-2023,CUST180,Male,41,Electronics,Headphones,3,300,900,Central,India,Returned
+ORD181,03-11-2023,CUST181,Male,19,Beauty,Moisturizer,4,300,1200,Central,Australia,Cancelled
+ORD182,15-06-2023,CUST182,Male,62,Electronics,Headphones,4,30,120,North,Australia,Delivered
+ORD183,08-09-2023,CUST183,Female,43,Electronics,Smart Watch,3,300,900,South,Canada,Delivered
+ORD184,10-01-2023,CUST184,Male,31,Fashion,Handbag,4,50,200,North,India,Returned
+ORD185,27-02-2023,CUST185,Male,24,Fashion,Jeans,1,25,25,North,Canada,Returned
+ORD186,05-07-2023,CUST186,Male,20,Beauty,Moisturizer,4,50,200,East,Australia,Delivered
+ORD187,07-06-2023,CUST187,Female,64,Electronics,Smart Watch,2,50,100,North,USA,Delivered
+ORD188,03-05-2023,CUST188,Male,40,Health,Protein Powder,3,25,75,West,USA,Delivered
+ORD189,30-01-2023,CUST189,Male,63,Electronics,Smartphone,1,50,50,East,India,Delivered
+ORD190,04-05-2023,CUST190,Female,60,Grocery,Tea Powder,3,30,90,West,India,Delivered
+ORD191,18-10-2023,CUST191,Male,64,Electronics,Headphones,1,25,25,North,Germany,Delivered
+ORD192,10-02-2023,CUST192,Male,62,Health,BP Monitor,2,50,100,West,Germany,Delivered
+ORD193,13-02-2023,CUST193,Male,35,Fashion,Sneakers,3,500,1500,East,USA,Delivered
+ORD194,06-09-2023,CUST194,Male,55,Electronics,Laptop,4,50,200,South,Canada,Returned
+ORD195,05-02-2023,CUST195,Male,52,Electronics,Headphones,1,30,30,West,India,Delivered
+ORD196,30-09-2023,CUST196,Female,32,Health,Digital Thermometer,3,300,900,South,Germany,Delivered
+ORD197,06-03-2023,CUST197,Female,42,Electronics,Laptop,4,50,200,East,India,Delivered
+ORD198,07-03-2023,CUST198,Female,54,Grocery,Wheat Flour 5kg,3,300,900,North,India,Delivered
+ORD199,04-12-2023,CUST199,Male,45,Health,Digital Thermometer,3,500,1500,South,India,Delivered
+ORD200,01-09-2023,CUST200,Male,27,Fashion,Sneakers,3,50,150,North,India,Cancelled
+ORD201,09-10-2023,CUST201,Male,56,Health,Protein Powder,1,25,25,West,India,Delivered
+ORD202,26-03-2023,CUST202,Female,34,Stationery,Desk Organizer,4,300,1200,Central,USA,Delivered
+ORD203,16-05-2023,CUST203,Male,56,Beauty,Face Wash,2,500,1000,South,USA,Delivered
+ORD204,28-09-2023,CUST204,Male,39,Electronics,Headphones,1,25,25,East,India,Delivered
+ORD205,07-11-2023,CUST205,Female,43,Electronics,Smart Watch,1,25,25,West,USA,Delivered
+ORD206,05-08-2023,CUST206,Male,61,Health,Mass Gainer,1,25,25,North,USA,Delivered
+ORD207,19-04-2023,CUST207,Female,42,Electronics,Smart Watch,2,25,50,East,India,Cancelled
+ORD208,04-10-2023,CUST208,Female,34,Fashion,Sneakers,4,50,200,North,Canada,Returned
+ORD209,20-12-2023,CUST209,Female,30,Health,BP Monitor,4,50,200,East,USA,Delivered
+ORD210,13-04-2023,CUST210,Male,37,Stationery,Marker Set,4,50,200,Central,USA,Delivered
+ORD211,01-01-2024,CUST211,Male,42,Beauty,Face Wash,3,500,1500,South,Germany,Delivered
+ORD212,09-06-2023,CUST212,Male,21,Electronics,Smart Watch,3,500,1500,West,India,Delivered
+ORD213,24-07-2023,CUST213,Male,27,Grocery,Dry Fruits Pack,3,500,1500,North,India,Cancelled
+ORD214,10-12-2023,CUST214,Male,20,Grocery,Sugar 1kg,2,30,60,North,USA,Delivered
+ORD215,29-11-2023,CUST215,Male,58,Beauty,Face Wash,3,500,1500,North,Australia,Delivered
+ORD216,11-07-2023,CUST216,Male,62,Grocery,Basmati Rice 5kg,2,50,100,North,Australia,Returned
+ORD217,13-08-2023,CUST217,Female,35,Grocery,Wheat Flour 5kg,4,50,200,North,USA,Cancelled
+ORD218,22-09-2023,CUST218,Male,64,Electronics,Bluetooth Speaker,3,30,90,North,Germany,Delivered
+ORD219,20-08-2023,CUST219,Female,53,Health,Protein Powder,3,30,90,South,USA,Delivered
+ORD220,03-03-2023,CUST220,Male,64,Stationery,Pen Set,1,500,500,South,Australia,Returned
+ORD221,07-05-2023,CUST221,Male,39,Electronics,Power Bank,2,300,600,South,India,Cancelled
+ORD222,26-04-2023,CUST222,Male,51,Health,Protein Powder,4,30,120,South,Australia,Cancelled
+ORD223,02-02-2023,CUST223,Female,64,Electronics,Headphones,1,25,25,North,Canada,Cancelled
+ORD224,23-06-2023,CUST224,Female,25,Fashion,Handbag,1,50,50,East,USA,Delivered
+ORD225,11-01-2023,CUST225,Female,57,Electronics,Bluetooth Speaker,4,25,100,South,USA,Delivered
+ORD226,29-10-2023,CUST226,Female,61,Health,Digital Thermometer,1,50,50,South,Australia,Delivered
+ORD227,11-10-2023,CUST227,Male,36,Electronics,Smartphone,2,50,100,North,Canada,Delivered
+ORD228,28-04-2023,CUST228,Female,59,Electronics,Headphones,2,30,60,West,Australia,Returned
+ORD229,29-10-2023,CUST229,Male,58,Fashion,Handbag,3,30,90,Central,Canada,Delivered
+ORD230,23-04-2023,CUST230,Male,54,Grocery,Wheat Flour 5kg,1,25,25,West,India,Cancelled
+ORD231,04-01-2023,CUST231,Female,23,Stationery,Notebook Pack,3,50,150,North,Australia,Delivered
+ORD232,06-02-2023,CUST232,Female,43,Fashion,Jeans,1,25,25,Central,USA,Delivered
+ORD233,29-12-2023,CUST233,Female,51,Home,Wall Clock,2,300,600,East,Australia,Delivered
+ORD234,20-11-2023,CUST234,Female,62,Health,Vitamin Tablets,2,25,50,North,Australia,Delivered
+ORD235,31-01-2023,CUST235,Female,23,Stationery,Printer Paper,2,500,1000,West,Canada,Returned
+ORD236,28-04-2023,CUST236,Female,54,Health,BP Monitor,1,25,25,South,India,Delivered
+ORD237,04-02-2023,CUST237,Female,50,Health,BP Monitor,2,500,1000,South,Canada,Cancelled
+ORD238,17-01-2023,CUST238,Female,39,Electronics,Bluetooth Speaker,1,500,500,North,India,Delivered
+ORD239,19-06-2023,CUST239,Male,38,Home,Pressure Cooker,3,500,1500,South,Australia,Cancelled
+ORD240,06-02-2023,CUST240,Female,23,Beauty,Perfume,1,300,300,North,USA,Cancelled
+ORD241,21-09-2023,CUST241,Female,23,Electronics,Power Bank,3,25,75,South,Germany,Delivered
+ORD242,02-05-2023,CUST242,Male,21,Grocery,Cooking Oil 1L,1,25,25,North,India,Delivered
+ORD243,23-05-2023,CUST243,Female,47,Fashion,Jacket,3,300,900,North,Australia,Delivered
+ORD244,09-12-2023,CUST244,Male,28,Beauty,Perfume,2,50,100,Central,India,Delivered
+ORD245,06-09-2023,CUST245,Male,47,Electronics,Laptop,3,30,90,East,Germany,Delivered
+ORD246,20-04-2023,CUST246,Female,48,Electronics,Laptop,2,25,50,South,Canada,Delivered
+ORD247,04-10-2023,CUST247,Male,41,Health,Digital Thermometer,2,30,60,South,India,Delivered
+ORD248,09-03-2023,CUST248,Male,26,Electronics,Laptop,3,300,900,South,India,Delivered
+ORD249,20-10-2023,CUST249,Male,20,Stationery,Marker Set,1,50,50,West,Australia,Delivered
+ORD250,23-10-2023,CUST250,Male,48,Electronics,Headphones,1,50,50,North,Canada,Returned
+ORD251,31-08-2023,CUST251,Female,57,Fashion,Handbag,4,50,200,Central,USA,Delivered
+ORD252,05-05-2023,CUST252,Male,54,Fashion,Jacket,1,300,300,North,Germany,Delivered
+ORD253,31-08-2023,CUST253,Female,53,Stationery,Marker Set,4,500,2000,North,Germany,Delivered
+ORD254,28-07-2023,CUST254,Male,41,Electronics,Headphones,1,500,500,North,Australia,Delivered
+ORD255,08-04-2023,CUST255,Male,48,Health,Vitamin Tablets,1,30,30,West,Canada,Delivered
+ORD256,18-02-2023,CUST256,Male,23,Grocery,Dry Fruits Pack,2,500,1000,South,India,Delivered
+ORD257,19-02-2023,CUST257,Male,19,Electronics,Bluetooth Speaker,4,500,2000,West,Canada,Delivered
+ORD258,04-12-2023,CUST258,Female,37,Fashion,Men T-Shirt,1,50,50,East,India,Delivered
+ORD259,09-08-2023,CUST259,Female,45,Fashion,Men T-Shirt,4,50,200,North,India,Delivered
+ORD260,01-07-2023,CUST260,Male,28,Grocery,Basmati Rice 5kg,2,30,60,West,USA,Delivered
+ORD261,05-08-2023,CUST261,Male,21,Beauty,Sunscreen,2,25,50,West,USA,Delivered
+ORD262,30-07-2023,CUST262,Female,32,Electronics,Smart Watch,4,30,120,East,Canada,Delivered
+ORD263,28-08-2023,CUST263,Male,23,Electronics,Headphones,2,30,60,East,India,Delivered
+ORD264,28-01-2023,CUST264,Male,47,Grocery,Wheat Flour 5kg,3,300,900,South,Germany,Delivered
+ORD265,11-12-2023,CUST265,Male,55,Electronics,Laptop,3,300,900,South,Germany,Delivered
+ORD266,01-12-2023,CUST266,Female,19,Beauty,Shampoo,2,30,60,North,USA,Delivered
+ORD267,27-11-2023,CUST267,Female,32,Fashion,Handbag,3,30,90,North,Germany,Delivered
+ORD268,20-02-2023,CUST268,Female,28,Fashion,Men T-Shirt,1,30,30,South,India,Delivered
+ORD269,01-02-2023,CUST269,Male,25,Fashion,Women Kurti,4,500,2000,North,India,Delivered
+ORD270,26-07-2023,CUST270,Male,43,Grocery,Basmati Rice 5kg,1,300,300,North,Canada,Delivered
+ORD271,23-06-2023,CUST271,Female,62,Electronics,Bluetooth Speaker,4,30,120,North,Canada,Delivered
+ORD272,25-02-2023,CUST272,Female,61,Electronics,Headphones,2,50,100,West,Germany,Delivered
+ORD273,08-05-2023,CUST273,Female,22,Health,Vitamin Tablets,1,50,50,West,USA,Returned
+ORD274,09-04-2023,CUST274,Female,23,Beauty,Perfume,2,500,1000,Central,Germany,Delivered
+ORD275,08-04-2023,CUST275,Male,43,Electronics,Smart Watch,2,500,1000,North,India,Delivered
+ORD276,02-10-2023,CUST276,Female,21,Beauty,Moisturizer,4,25,100,West,Australia,Delivered
+ORD277,18-08-2023,CUST277,Male,36,Fashion,Sneakers,4,25,100,South,India,Delivered
+ORD278,13-03-2023,CUST278,Female,37,Electronics,Power Bank,4,25,100,West,Australia,Delivered
+ORD279,05-08-2023,CUST279,Male,50,Electronics,Smart Watch,1,500,500,South,Canada,Cancelled
+ORD280,04-04-2023,CUST280,Female,37,Electronics,Headphones,3,500,1500,West,USA,Delivered
+ORD281,23-05-2023,CUST281,Female,29,Grocery,Cooking Oil 1L,4,500,2000,North,USA,Delivered
+ORD282,25-08-2023,CUST282,Female,64,Fashion,Sneakers,4,50,200,West,India,Returned
+ORD283,08-05-2023,CUST283,Female,18,Beauty,Face Wash,1,500,500,North,India,Delivered
+ORD284,08-02-2023,CUST284,Male,43,Electronics,Headphones,4,50,200,South,India,Delivered
+ORD285,15-08-2023,CUST285,Female,31,Grocery,Sugar 1kg,1,25,25,East,India,Delivered
+ORD286,09-10-2023,CUST286,Male,55,Fashion,Sneakers,2,25,50,North,Australia,Delivered
+ORD287,20-02-2023,CUST287,Male,54,Beauty,Moisturizer,4,25,100,East,Australia,Delivered
+ORD288,26-01-2023,CUST288,Male,28,Home,Mixer Grinder,4,30,120,West,USA,Delivered
+ORD289,30-11-2023,CUST289,Male,53,Grocery,Wheat Flour 5kg,2,30,60,North,USA,Delivered
+ORD290,04-10-2023,CUST290,Female,30,Beauty,Lipstick,2,300,600,South,USA,Delivered
+ORD291,08-01-2023,CUST291,Male,60,Grocery,Basmati Rice 5kg,2,300,600,North,USA,Delivered
+ORD292,17-02-2023,CUST292,Male,20,Electronics,Smartphone,4,300,1200,Central,Australia,Delivered
+ORD293,02-05-2023,CUST293,Male,50,Electronics,Bluetooth Speaker,3,30,90,North,Canada,Delivered
+ORD294,27-03-2023,CUST294,Female,23,Electronics,Laptop,3,30,90,North,India,Delivered
+ORD295,28-07-2023,CUST295,Female,27,Grocery,Sugar 1kg,3,300,900,North,Germany,Delivered
+ORD296,06-09-2023,CUST296,Female,22,Electronics,Smart Watch,4,300,1200,West,India,Delivered
+ORD297,04-09-2023,CUST297,Female,40,Fashion,Men T-Shirt,2,500,1000,West,Germany,Delivered
+ORD298,20-04-2023,CUST298,Male,27,Fashion,Handbag,4,300,1200,West,India,Delivered
+ORD299,25-07-2023,CUST299,Male,61,Health,Digital Thermometer,2,500,1000,South,India,Delivered
+ORD300,31-01-2023,CUST300,Female,19,Fashion,Women Kurti,4,50,200,North,Germany,Delivered
+ORD301,26-03-2023,CUST301,Male,30,Grocery,Sugar 1kg,4,30,120,North,Germany,Delivered
+ORD302,14-07-2023,CUST302,Male,57,Electronics,Bluetooth Speaker,2,300,600,West,Australia,Returned
+ORD303,02-01-2023,CUST303,Male,19,Fashion,Jacket,3,30,90,South,India,Delivered
+ORD304,19-07-2023,CUST304,Female,37,Electronics,Smartphone,2,30,60,North,USA,Delivered
+ORD305,16-05-2023,CUST305,Female,18,Electronics,Power Bank,1,30,30,West,Australia,Delivered
+ORD306,21-08-2023,CUST306,Male,54,Health,BP Monitor,1,50,50,East,India,Delivered
+ORD307,27-05-2023,CUST307,Female,26,Grocery,Cooking Oil 1L,2,25,50,East,India,Delivered
+ORD308,05-08-2023,CUST308,Female,34,Electronics,Laptop,4,300,1200,East,India,Delivered
+ORD309,23-12-2023,CUST309,Female,26,Electronics,Laptop,1,25,25,South,Germany,Delivered
+ORD310,12-10-2023,CUST310,Female,28,Electronics,Smart Watch,1,25,25,Central,Canada,Delivered
+ORD311,05-12-2023,CUST311,Female,32,Electronics,Smart Watch,4,25,100,South,India,Cancelled
+ORD312,07-09-2023,CUST312,Male,41,Grocery,Basmati Rice 5kg,4,30,120,North,India,Returned
+ORD313,21-03-2023,CUST313,Female,55,Fashion,Jeans,3,500,1500,South,Australia,Delivered
+ORD314,08-04-2023,CUST314,Male,52,Health,Vitamin Tablets,4,30,120,West,USA,Returned
+ORD315,01-06-2023,CUST315,Male,47,Electronics,Bluetooth Speaker,2,30,60,South,USA,Delivered
+ORD316,22-04-2023,CUST316,Female,48,Health,Mass Gainer,2,25,50,North,India,Cancelled
+ORD317,30-01-2023,CUST317,Male,22,Grocery,Basmati Rice 5kg,3,30,90,South,Germany,Delivered
+ORD318,24-10-2023,CUST318,Male,61,Grocery,Dry Fruits Pack,1,25,25,South,India,Delivered
+ORD319,05-10-2023,CUST319,Male,31,Electronics,Headphones,1,500,500,Central,India,Delivered
+ORD320,01-02-2023,CUST320,Female,28,Electronics,Laptop,4,300,1200,East,India,Delivered
+ORD321,10-06-2023,CUST321,Female,26,Health,Protein Powder,2,25,50,Central,Canada,Delivered
+ORD322,30-01-2023,CUST322,Male,51,Electronics,Power Bank,1,500,500,East,Germany,Delivered
+ORD323,26-01-2023,CUST323,Female,29,Electronics,Bluetooth Speaker,3,300,900,East,Australia,Delivered
+ORD324,27-10-2023,CUST324,Female,52,Health,Protein Powder,3,50,150,West,India,Delivered
+ORD325,02-09-2023,CUST325,Female,52,Beauty,Sunscreen,2,25,50,South,India,Delivered
+ORD326,15-09-2023,CUST326,Female,18,Grocery,Wheat Flour 5kg,3,25,75,South,India,Cancelled
+ORD327,29-09-2023,CUST327,Male,57,Fashion,Men T-Shirt,3,50,150,South,USA,Delivered
+ORD328,22-03-2023,CUST328,Male,39,Health,Hand Sanitizer,2,50,100,North,India,Delivered
+ORD329,30-01-2023,CUST329,Female,46,Electronics,Bluetooth Speaker,4,25,100,East,India,Delivered
+ORD330,18-09-2023,CUST330,Female,25,Electronics,Power Bank,4,50,200,North,Germany,Delivered
+ORD331,11-02-2023,CUST331,Male,28,Electronics,Smart Watch,3,30,90,South,USA,Delivered
+ORD332,06-04-2023,CUST332,Male,58,Fashion,Women Kurti,4,300,1200,South,Australia,Delivered
+ORD333,05-02-2023,CUST333,Female,54,Beauty,Lipstick,4,300,1200,South,Australia,Delivered
+ORD334,01-11-2023,CUST334,Male,31,Electronics,Smartphone,3,300,900,North,India,Delivered
+ORD335,04-02-2023,CUST335,Female,47,Fashion,Jacket,4,30,120,Central,Germany,Delivered
+ORD336,12-12-2023,CUST336,Female,52,Fashion,Men T-Shirt,3,50,150,North,India,Delivered
+ORD337,01-05-2023,CUST337,Male,38,Health,BP Monitor,1,500,500,North,USA,Returned
+ORD338,26-07-2023,CUST338,Male,54,Fashion,Jeans,2,50,100,Central,USA,Delivered
+ORD339,03-03-2023,CUST339,Female,22,Health,Protein Powder,2,25,50,North,India,Delivered
+ORD340,19-10-2023,CUST340,Female,36,Fashion,Women Kurti,4,300,1200,West,Germany,Delivered
+ORD341,07-05-2023,CUST341,Male,31,Electronics,Power Bank,4,50,200,South,Canada,Delivered
+ORD342,24-10-2023,CUST342,Female,43,Stationery,Marker Set,4,500,2000,North,India,Delivered
+ORD343,01-11-2023,CUST343,Male,21,Beauty,Face Wash,2,25,50,North,Canada,Returned
+ORD344,21-01-2023,CUST344,Female,42,Fashion,Jeans,1,30,30,West,Germany,Delivered
+ORD345,14-11-2023,CUST345,Male,62,Stationery,Printer Paper,1,30,30,West,Australia,Delivered
+ORD346,11-02-2023,CUST346,Male,59,Fashion,Women Kurti,2,500,1000,East,India,Returned
+ORD347,03-08-2023,CUST347,Male,42,Grocery,Basmati Rice 5kg,1,25,25,South,Canada,Delivered
+ORD348,03-12-2023,CUST348,Female,35,Beauty,Lipstick,2,300,600,West,Australia,Cancelled
+ORD349,26-10-2023,CUST349,Female,57,Health,Mass Gainer,1,50,50,East,India,Delivered
+ORD350,17-10-2023,CUST350,Male,25,Electronics,Bluetooth Speaker,3,25,75,East,India,Delivered
+ORD351,25-09-2023,CUST351,Female,56,Electronics,Smart Watch,3,30,90,South,Canada,Delivered
+ORD352,11-06-2023,CUST352,Male,57,Fashion,Men T-Shirt,2,500,1000,South,India,Returned
+ORD353,14-05-2023,CUST353,Male,31,Fashion,Men T-Shirt,1,500,500,West,USA,Returned
+ORD354,15-04-2023,CUST354,Female,49,Fashion,Women Kurti,4,50,200,East,USA,Delivered
+ORD355,09-12-2023,CUST355,Female,55,Fashion,Sneakers,1,500,500,West,Canada,Delivered
+ORD356,10-06-2023,CUST356,Male,50,Health,Protein Powder,3,500,1500,North,USA,Delivered
+ORD357,03-05-2023,CUST357,Female,40,Electronics,Smartphone,3,25,75,North,India,Delivered
+ORD358,16-05-2023,CUST358,Female,32,Beauty,Moisturizer,1,300,300,South,USA,Delivered
+ORD359,22-07-2023,CUST359,Male,50,Electronics,Smart Watch,1,50,50,East,USA,Delivered
+ORD360,09-03-2023,CUST360,Male,42,Health,Vitamin Tablets,4,25,100,North,Germany,Cancelled
+ORD361,10-12-2023,CUST361,Female,34,Beauty,Lipstick,4,300,1200,Central,India,Delivered
+ORD362,27-11-2023,CUST362,Male,50,Electronics,Laptop,1,25,25,North,India,Returned
+ORD363,03-06-2023,CUST363,Male,64,Beauty,Face Wash,1,25,25,North,India,Delivered
+ORD364,23-08-2023,CUST364,Female,19,Electronics,Smartphone,1,500,500,North,USA,Cancelled
+ORD365,11-06-2023,CUST365,Male,31,Beauty,Moisturizer,1,300,300,West,India,Cancelled
+ORD366,07-02-2023,CUST366,Male,57,Grocery,Cooking Oil 1L,2,50,100,South,USA,Delivered
+ORD367,05-01-2023,CUST367,Female,57,Electronics,Bluetooth Speaker,1,50,50,East,India,Delivered
+ORD368,23-08-2023,CUST368,Female,56,Beauty,Moisturizer,4,300,1200,South,USA,Returned
+ORD369,15-11-2023,CUST369,Male,23,Electronics,Headphones,3,500,1500,Central,Australia,Delivered
+ORD370,16-10-2023,CUST370,Male,23,Grocery,Basmati Rice 5kg,2,30,60,South,India,Cancelled
+ORD371,21-02-2023,CUST371,Female,20,Stationery,Marker Set,1,25,25,South,USA,Returned
+ORD372,07-02-2023,CUST372,Female,24,Grocery,Cooking Oil 1L,3,500,1500,West,USA,Delivered
+ORD373,03-10-2023,CUST373,Female,25,Electronics,Power Bank,2,300,600,Central,Canada,Delivered
+ORD374,20-04-2023,CUST374,Female,59,Home,Mixer Grinder,3,25,75,West,Australia,Delivered
+ORD375,17-09-2023,CUST375,Male,32,Grocery,Wheat Flour 5kg,1,50,50,North,Canada,Delivered
+ORD376,16-05-2023,CUST376,Female,64,Health,Digital Thermometer,1,30,30,West,India,Delivered
+ORD377,09-03-2023,CUST377,Female,46,Health,Vitamin Tablets,4,50,200,West,USA,Delivered
+ORD378,28-06-2023,CUST378,Male,50,Stationery,Desk Organizer,1,300,300,North,India,Delivered
+ORD379,05-02-2023,CUST379,Female,47,Fashion,Jeans,1,25,25,West,Germany,Cancelled
+ORD380,06-05-2023,CUST380,Male,56,Health,Vitamin Tablets,2,300,600,East,Canada,Delivered
+ORD381,09-07-2023,CUST381,Female,44,Beauty,Lipstick,4,25,100,North,Germany,Delivered
+ORD382,26-05-2023,CUST382,Female,53,Electronics,Smart Watch,2,500,1000,East,India,Delivered
+ORD383,22-03-2023,CUST383,Female,46,Electronics,Smart Watch,3,30,90,South,Australia,Cancelled
+ORD384,13-08-2023,CUST384,Male,55,Fashion,Women Kurti,1,500,500,North,India,Delivered
+ORD385,06-10-2023,CUST385,Male,50,Electronics,Laptop,3,500,1500,Central,India,Delivered
+ORD386,27-12-2023,CUST386,Female,54,Grocery,Tea Powder,2,300,600,South,USA,Delivered
+ORD387,04-06-2023,CUST387,Male,44,Fashion,Jacket,1,30,30,West,India,Delivered
+ORD388,10-11-2023,CUST388,Male,50,Electronics,Smartphone,1,25,25,Central,Canada,Delivered
+ORD389,01-12-2023,CUST389,Male,21,Grocery,Tea Powder,2,25,50,Central,India,Cancelled
+ORD390,28-09-2023,CUST390,Male,39,Home,Pressure Cooker,2,50,100,Central,India,Delivered
+ORD391,05-01-2023,CUST391,Male,19,Electronics,Headphones,2,25,50,North,USA,Cancelled
+ORD392,08-12-2023,CUST392,Male,27,Health,Protein Powder,2,300,600,Central,Australia,Returned
+ORD393,11-10-2023,CUST393,Female,22,Health,Protein Powder,2,500,1000,South,Germany,Delivered
+ORD394,03-06-2023,CUST394,Female,27,Grocery,Wheat Flour 5kg,1,500,500,South,Germany,Delivered
+ORD395,06-12-2023,CUST395,Male,50,Beauty,Shampoo,2,500,1000,North,Australia,Delivered
+ORD396,23-02-2023,CUST396,Female,55,Electronics,Bluetooth Speaker,1,30,30,South,India,Delivered
+ORD397,10-03-2023,CUST397,Female,30,Electronics,Power Bank,1,25,25,East,Germany,Delivered
+ORD398,16-05-2023,CUST398,Female,48,Fashion,Women Kurti,2,300,600,North,India,Delivered
+ORD399,01-03-2023,CUST399,Female,64,Grocery,Wheat Flour 5kg,2,30,60,Central,Germany,Delivered
+ORD400,24-02-2023,CUST400,Male,53,Grocery,Dry Fruits Pack,4,50,200,North,USA,Delivered
+ORD401,11-10-2023,CUST401,Female,62,Electronics,Headphones,1,300,300,Central,Germany,Delivered
+ORD402,21-03-2023,CUST402,Female,41,Beauty,Face Wash,2,300,600,East,Canada,Cancelled
+ORD403,20-05-2023,CUST403,Male,32,Home,LED Bulb Pack,2,300,600,North,Canada,Delivered
+ORD404,25-05-2023,CUST404,Male,46,Electronics,Headphones,2,500,1000,North,Australia,Returned
+ORD405,06-11-2023,CUST405,Female,25,Beauty,Sunscreen,4,300,1200,North,India,Delivered
+ORD406,18-04-2023,CUST406,Female,22,Fashion,Sneakers,4,25,100,South,Germany,Delivered
+ORD407,25-06-2023,CUST407,Female,46,Grocery,Cooking Oil 1L,3,300,900,South,India,Delivered
+ORD408,15-04-2023,CUST408,Female,64,Beauty,Sunscreen,1,500,500,East,India,Delivered
+ORD409,18-12-2023,CUST409,Female,21,Electronics,Power Bank,3,300,900,West,India,Delivered
+ORD410,21-11-2023,CUST410,Female,29,Electronics,Power Bank,2,50,100,North,India,Delivered
+ORD411,16-05-2023,CUST411,Male,62,Fashion,Women Kurti,4,50,200,Central,India,Delivered
+ORD412,16-09-2023,CUST412,Female,19,Electronics,Headphones,4,500,2000,North,USA,Delivered
+ORD413,08-09-2023,CUST413,Female,44,Fashion,Handbag,3,25,75,East,Canada,Delivered
+ORD414,09-05-2023,CUST414,Male,48,Grocery,Cooking Oil 1L,4,25,100,South,Germany,Delivered
+ORD415,27-01-2023,CUST415,Male,53,Grocery,Tea Powder,2,30,60,North,Germany,Delivered
+ORD416,17-02-2023,CUST416,Male,53,Grocery,Cooking Oil 1L,4,500,2000,West,USA,Delivered
+ORD417,21-11-2023,CUST417,Male,43,Stationery,Printer Paper,3,300,900,North,Germany,Delivered
+ORD418,05-08-2023,CUST418,Female,60,Grocery,Dry Fruits Pack,2,500,1000,South,Germany,Delivered
+ORD419,22-05-2023,CUST419,Female,44,Electronics,Laptop,3,30,90,South,India,Delivered
+ORD420,23-01-2023,CUST420,Female,22,Health,Digital Thermometer,4,500,2000,North,India,Delivered
+ORD421,02-01-2023,CUST421,Female,37,Home,Mixer Grinder,3,500,1500,Central,India,Delivered
+ORD422,20-06-2023,CUST422,Female,28,Electronics,Power Bank,3,30,90,East,USA,Delivered
+ORD423,08-03-2023,CUST423,Female,27,Fashion,Jeans,1,25,25,South,India,Cancelled
+ORD424,23-11-2023,CUST424,Male,57,Stationery,Desk Organizer,4,300,1200,West,Germany,Delivered
+ORD425,15-05-2023,CUST425,Female,55,Electronics,Smartphone,4,30,120,West,India,Delivered
+ORD426,24-03-2023,CUST426,Male,23,Electronics,Headphones,3,50,150,South,Canada,Cancelled
+ORD427,15-08-2023,CUST427,Male,25,Health,Mass Gainer,1,25,25,West,USA,Delivered
+ORD428,10-10-2023,CUST428,Female,40,Electronics,Laptop,4,50,200,North,India,Delivered
+ORD429,28-12-2023,CUST429,Male,64,Beauty,Perfume,2,25,50,West,India,Delivered
+ORD430,07-08-2023,CUST430,Female,43,Electronics,Smart Watch,3,300,900,South,Canada,Delivered
+ORD431,15-10-2023,CUST431,Male,63,Beauty,Perfume,4,300,1200,North,USA,Delivered
+ORD432,05-01-2023,CUST432,Female,60,Electronics,Smartphone,2,500,1000,West,USA,Delivered
+ORD433,27-02-2023,CUST433,Male,29,Fashion,Sneakers,4,50,200,North,India,Delivered
+ORD434,08-02-2023,CUST434,Female,43,Electronics,Power Bank,2,25,50,West,USA,Delivered
+ORD435,20-12-2023,CUST435,Female,30,Electronics,Headphones,3,300,900,South,USA,Cancelled
+ORD436,18-03-2023,CUST436,Female,57,Grocery,Dry Fruits Pack,4,30,120,West,Australia,Delivered
+ORD437,07-10-2023,CUST437,Female,35,Stationery,Printer Paper,4,300,1200,Central,Germany,Delivered
+ORD438,19-01-2023,CUST438,Female,42,Health,Digital Thermometer,1,30,30,North,India,Delivered
+ORD439,09-07-2023,CUST439,Male,50,Grocery,Wheat Flour 5kg,3,25,75,Central,USA,Delivered
+ORD440,26-10-2023,CUST440,Male,64,Fashion,Sneakers,2,300,600,North,Canada,Delivered
+ORD441,10-10-2023,CUST441,Male,57,Beauty,Moisturizer,4,300,1200,South,Australia,Delivered
+ORD442,17-03-2023,CUST442,Female,60,Home,Mixer Grinder,4,25,100,East,India,Delivered
+ORD443,09-08-2023,CUST443,Male,29,Fashion,Men T-Shirt,2,300,600,East,USA,Delivered
+ORD444,07-03-2023,CUST444,Female,61,Grocery,Dry Fruits Pack,3,30,90,South,USA,Delivered
+ORD445,22-01-2023,CUST445,Female,53,Health,Vitamin Tablets,1,300,300,West,Germany,Returned
+ORD446,07-06-2023,CUST446,Male,21,Fashion,Sneakers,1,50,50,Central,USA,Delivered
+ORD447,06-07-2023,CUST447,Male,22,Health,Vitamin Tablets,4,500,2000,Central,Australia,Delivered
+ORD448,21-01-2023,CUST448,Female,54,Grocery,Wheat Flour 5kg,2,30,60,North,Australia,Delivered
+ORD449,03-07-2023,CUST449,Male,25,Grocery,Dry Fruits Pack,4,50,200,North,Germany,Delivered
+ORD450,18-04-2023,CUST450,Female,59,Fashion,Sneakers,2,25,50,West,Canada,Delivered
+ORD451,16-12-2023,CUST451,Female,45,Fashion,Handbag,1,30,30,North,USA,Cancelled
+ORD452,08-05-2023,CUST452,Female,48,Electronics,Laptop,3,500,1500,South,Germany,Delivered
+ORD453,08-12-2023,CUST453,Female,26,Stationery,Printer Paper,2,500,1000,North,Germany,Delivered
+ORD454,22-02-2023,CUST454,Female,46,Grocery,Tea Powder,1,25,25,East,USA,Delivered
+ORD455,01-07-2023,CUST455,Male,31,Electronics,Bluetooth Speaker,4,25,100,North,USA,Returned
+ORD456,14-10-2023,CUST456,Male,57,Electronics,Power Bank,2,30,60,North,Australia,Delivered
+ORD457,28-07-2023,CUST457,Female,58,Fashion,Handbag,3,300,900,East,Germany,Delivered
+ORD458,14-11-2023,CUST458,Female,39,Grocery,Cooking Oil 1L,4,25,100,East,Australia,Returned
+ORD459,21-03-2023,CUST459,Male,28,Electronics,Headphones,4,300,1200,Central,India,Cancelled
+ORD460,02-05-2023,CUST460,Male,40,Health,Vitamin Tablets,1,50,50,North,Canada,Delivered
+ORD461,25-03-2023,CUST461,Female,18,Fashion,Jeans,2,500,1000,Central,USA,Delivered
+ORD462,01-04-2023,CUST462,Male,63,Health,BP Monitor,4,300,1200,Central,Australia,Cancelled
+ORD463,31-07-2023,CUST463,Female,54,Health,Digital Thermometer,3,500,1500,Central,Canada,Delivered
+ORD464,13-01-2023,CUST464,Male,38,Fashion,Women Kurti,2,300,600,Central,India,Delivered
+ORD465,02-04-2023,CUST465,Female,43,Electronics,Power Bank,3,50,150,West,USA,Delivered
+ORD466,20-06-2023,CUST466,Male,63,Electronics,Smartphone,4,25,100,West,Australia,Delivered
+ORD467,30-07-2023,CUST467,Female,53,Stationery,Marker Set,3,50,150,North,Australia,Cancelled
+ORD468,09-12-2023,CUST468,Male,40,Fashion,Sneakers,1,25,25,Central,India,Delivered
+ORD469,08-05-2023,CUST469,Male,18,Fashion,Men T-Shirt,3,25,75,West,USA,Delivered
+ORD470,17-05-2023,CUST470,Female,57,Fashion,Sneakers,2,500,1000,West,Australia,Delivered
+ORD471,23-03-2023,CUST471,Male,32,Electronics,Smartphone,3,50,150,North,Australia,Delivered
+ORD472,26-12-2023,CUST472,Female,38,Grocery,Wheat Flour 5kg,3,300,900,East,Germany,Cancelled
+ORD473,25-02-2023,CUST473,Male,64,Fashion,Men T-Shirt,1,50,50,West,Australia,Delivered
+ORD474,15-07-2023,CUST474,Female,26,Fashion,Jeans,3,500,1500,North,India,Delivered
+ORD475,20-01-2023,CUST475,Male,26,Fashion,Men T-Shirt,3,25,75,Central,India,Delivered
+ORD476,29-08-2023,CUST476,Female,27,Electronics,Headphones,4,500,2000,South,Germany,Delivered
+ORD477,24-04-2023,CUST477,Male,43,Beauty,Face Wash,4,30,120,East,Canada,Returned
+ORD478,13-04-2023,CUST478,Female,58,Fashion,Sneakers,2,30,60,South,Australia,Delivered
+ORD479,24-08-2023,CUST479,Male,52,Beauty,Shampoo,4,300,1200,North,Australia,Cancelled
+ORD480,29-06-2023,CUST480,Female,42,Fashion,Jeans,4,500,2000,West,India,Delivered
+ORD481,06-06-2023,CUST481,Female,43,Grocery,Wheat Flour 5kg,4,300,1200,North,Germany,Delivered
+ORD482,27-04-2023,CUST482,Female,28,Grocery,Wheat Flour 5kg,4,300,1200,West,India,Cancelled
+ORD483,25-04-2023,CUST483,Male,55,Electronics,Headphones,1,30,30,West,Canada,Delivered
+ORD484,13-01-2023,CUST484,Female,19,Electronics,Smartphone,4,300,1200,West,India,Delivered
+ORD485,04-12-2023,CUST485,Male,24,Fashion,Jacket,1,30,30,South,USA,Delivered
+ORD486,09-04-2023,CUST486,Female,35,Beauty,Perfume,1,25,25,East,India,Delivered
+ORD487,24-07-2023,CUST487,Male,44,Electronics,Smartphone,4,500,2000,Central,Australia,Delivered
+ORD488,18-06-2023,CUST488,Female,51,Electronics,Smart Watch,3,300,900,East,India,Delivered
+ORD489,23-05-2023,CUST489,Male,44,Electronics,Headphones,1,30,30,West,Germany,Delivered
+ORD490,05-02-2023,CUST490,Male,34,Fashion,Women Kurti,3,50,150,Central,Canada,Delivered
+ORD491,23-05-2023,CUST491,Female,60,Fashion,Jacket,3,300,900,South,India,Cancelled
+ORD492,29-06-2023,CUST492,Male,61,Electronics,Bluetooth Speaker,4,25,100,Central,Australia,Delivered
+ORD493,25-11-2023,CUST493,Male,41,Fashion,Jeans,2,25,50,South,Canada,Cancelled
+ORD494,18-09-2023,CUST494,Female,42,Electronics,Smartphone,4,50,200,Central,Australia,Delivered
+ORD495,24-07-2023,CUST495,Male,24,Beauty,Face Wash,2,30,60,West,Australia,Cancelled
+ORD496,14-12-2023,CUST496,Male,23,Electronics,Power Bank,2,300,600,North,India,Delivered
+ORD497,02-10-2023,CUST497,Male,41,Stationery,Office Files,4,30,120,East,India,Delivered
+ORD498,19-06-2023,CUST498,Female,50,Fashion,Women Kurti,4,25,100,Central,Germany,Cancelled
+ORD499,15-01-2023,CUST499,Male,46,Grocery,Tea Powder,2,30,60,Central,Germany,Delivered
+ORD500,01-03-2023,CUST500,Female,60,Health,Digital Thermometer,4,25,100,West,USA,Delivered
+ORD501,14-05-2023,CUST501,Male,39,Fashion,Jeans,2,30,60,South,USA,Delivered
+ORD502,02-04-2023,CUST502,Male,43,Electronics,Smart Watch,3,50,150,North,India,Delivered
+ORD503,25-10-2023,CUST503,Male,45,Home,Mixer Grinder,4,500,2000,East,USA,Cancelled
+ORD504,16-05-2023,CUST504,Female,38,Grocery,Dry Fruits Pack,3,50,150,West,USA,Delivered
+ORD505,20-01-2023,CUST505,Male,24,Home,Pressure Cooker,1,50,50,North,Australia,Delivered
+ORD506,25-02-2023,CUST506,Male,34,Fashion,Jeans,3,500,1500,North,Canada,Cancelled
+ORD507,02-11-2023,CUST507,Female,37,Electronics,Smart Watch,3,500,1500,West,USA,Cancelled
+ORD508,11-08-2023,CUST508,Male,58,Electronics,Smartphone,2,300,600,Central,USA,Delivered
+ORD509,26-06-2023,CUST509,Female,37,Fashion,Men T-Shirt,3,300,900,West,India,Cancelled
+ORD510,10-06-2023,CUST510,Female,39,Electronics,Bluetooth Speaker,4,50,200,South,Australia,Delivered
+ORD511,12-08-2023,CUST511,Male,45,Electronics,Bluetooth Speaker,2,50,100,North,India,Delivered
+ORD512,07-11-2023,CUST512,Female,57,Fashion,Women Kurti,1,25,25,Central,Germany,Cancelled
+ORD513,19-09-2023,CUST513,Male,24,Beauty,Perfume,4,25,100,North,USA,Delivered
+ORD514,01-03-2023,CUST514,Female,18,Grocery,Basmati Rice 5kg,1,300,300,West,USA,Delivered
+ORD515,17-07-2023,CUST515,Female,49,Beauty,Perfume,3,300,900,West,USA,Delivered
+ORD516,23-10-2023,CUST516,Male,30,Electronics,Bluetooth Speaker,4,25,100,South,USA,Delivered
+ORD517,08-04-2023,CUST517,Female,47,Fashion,Handbag,4,25,100,North,Australia,Delivered
+ORD518,11-05-2023,CUST518,Female,40,Grocery,Dry Fruits Pack,1,30,30,North,Australia,Delivered
+ORD519,23-01-2023,CUST519,Female,36,Fashion,Jacket,4,30,120,North,USA,Delivered
+ORD520,29-12-2023,CUST520,Female,49,Electronics,Smartphone,4,25,100,North,USA,Delivered
+ORD521,12-08-2023,CUST521,Female,47,Grocery,Dry Fruits Pack,4,30,120,North,India,Delivered
+ORD522,01-01-2023,CUST522,Male,46,Stationery,Desk Organizer,3,500,1500,East,Germany,Delivered
+ORD523,24-09-2023,CUST523,Female,62,Fashion,Handbag,1,300,300,East,India,Delivered
+ORD524,03-10-2023,CUST524,Male,46,Fashion,Jacket,4,300,1200,West,USA,Cancelled
+ORD525,18-12-2023,CUST525,Female,47,Health,Protein Powder,2,25,50,Central,India,Delivered
+ORD526,10-12-2023,CUST526,Male,33,Beauty,Shampoo,2,50,100,North,USA,Delivered
+ORD527,11-04-2023,CUST527,Male,57,Fashion,Handbag,2,25,50,North,India,Delivered
+ORD528,06-07-2023,CUST528,Female,36,Stationery,Notebook Pack,2,30,60,Central,India,Delivered
+ORD529,09-08-2023,CUST529,Female,35,Fashion,Handbag,3,50,150,West,Germany,Delivered
+ORD530,05-02-2023,CUST530,Female,18,Fashion,Men T-Shirt,4,30,120,North,Canada,Delivered
+ORD531,07-12-2023,CUST531,Male,31,Beauty,Sunscreen,1,500,500,North,India,Returned
+ORD532,19-06-2023,CUST532,Female,64,Grocery,Basmati Rice 5kg,4,30,120,North,India,Delivered
+ORD533,16-11-2023,CUST533,Male,19,Electronics,Bluetooth Speaker,3,500,1500,East,India,Cancelled
+ORD534,10-06-2023,CUST534,Male,45,Electronics,Power Bank,2,500,1000,Central,India,Cancelled
+ORD535,06-12-2023,CUST535,Male,47,Electronics,Smart Watch,3,30,90,West,Canada,Delivered
+ORD536,05-03-2023,CUST536,Female,55,Health,Hand Sanitizer,4,30,120,Central,Australia,Delivered
+ORD537,03-06-2023,CUST537,Female,21,Beauty,Shampoo,1,500,500,North,USA,Delivered
+ORD538,17-09-2023,CUST538,Male,18,Fashion,Jeans,3,50,150,South,USA,Delivered
+ORD539,08-06-2023,CUST539,Male,25,Electronics,Headphones,1,500,500,East,India,Delivered
+ORD540,08-12-2023,CUST540,Female,46,Health,Vitamin Tablets,3,300,900,Central,India,Delivered
+ORD541,29-07-2023,CUST541,Male,56,Beauty,Lipstick,1,500,500,West,India,Delivered
+ORD542,17-06-2023,CUST542,Female,20,Electronics,Headphones,1,50,50,North,India,Cancelled
+ORD543,26-07-2023,CUST543,Male,49,Fashion,Jacket,2,300,600,North,Germany,Delivered
+ORD544,23-12-2023,CUST544,Female,27,Fashion,Sneakers,1,25,25,North,India,Delivered
+ORD545,01-06-2023,CUST545,Male,27,Fashion,Jacket,2,25,50,West,India,Delivered
+ORD546,11-10-2023,CUST546,Female,36,Electronics,Headphones,4,50,200,East,India,Delivered
+ORD547,07-03-2023,CUST547,Male,63,Health,Hand Sanitizer,4,500,2000,North,Canada,Delivered
+ORD548,09-04-2023,CUST548,Female,51,Electronics,Bluetooth Speaker,2,30,60,West,Canada,Delivered
+ORD549,04-08-2023,CUST549,Female,50,Health,Protein Powder,2,50,100,South,Germany,Delivered
+ORD550,07-12-2023,CUST550,Male,40,Electronics,Smartphone,3,300,900,West,Germany,Delivered
+ORD551,14-07-2023,CUST551,Male,45,Health,Hand Sanitizer,3,300,900,North,USA,Delivered
+ORD552,13-12-2023,CUST552,Female,49,Fashion,Women Kurti,3,25,75,East,Germany,Cancelled
+ORD553,31-03-2023,CUST553,Male,24,Health,Digital Thermometer,4,300,1200,Central,India,Delivered
+ORD554,12-11-2023,CUST554,Female,46,Health,Hand Sanitizer,3,50,150,Central,USA,Delivered
+ORD555,19-10-2023,CUST555,Male,25,Fashion,Jacket,1,300,300,North,Canada,Cancelled
+ORD556,04-06-2023,CUST556,Female,18,Home,Bedsheet,1,50,50,North,India,Cancelled
+ORD557,27-07-2023,CUST557,Female,20,Electronics,Smartphone,3,30,90,South,Germany,Delivered
+ORD558,08-10-2023,CUST558,Female,41,Electronics,Headphones,1,25,25,North,India,Delivered
+ORD559,01-01-2023,CUST559,Female,40,Grocery,Wheat Flour 5kg,4,300,1200,South,India,Delivered
+ORD560,05-06-2023,CUST560,Female,25,Home,Pressure Cooker,1,50,50,South,Germany,Delivered
+ORD561,27-05-2023,CUST561,Female,64,Grocery,Tea Powder,4,500,2000,East,India,Delivered
+ORD562,18-04-2023,CUST562,Male,54,Electronics,Bluetooth Speaker,2,25,50,East,India,Cancelled
+ORD563,09-08-2023,CUST563,Male,20,Grocery,Cooking Oil 1L,2,30,60,North,USA,Delivered
+ORD564,24-10-2023,CUST564,Male,50,Health,Digital Thermometer,2,50,100,North,Australia,Delivered
+ORD565,07-11-2023,CUST565,Female,45,Electronics,Headphones,2,30,60,East,Australia,Delivered
+ORD566,02-12-2023,CUST566,Female,64,Stationery,Notebook Pack,1,30,30,South,Australia,Cancelled
+ORD567,14-06-2023,CUST567,Female,25,Electronics,Smartphone,3,300,900,Central,India,Delivered
+ORD568,27-08-2023,CUST568,Female,51,Electronics,Headphones,1,300,300,South,USA,Delivered
+ORD569,15-08-2023,CUST569,Male,52,Fashion,Handbag,4,50,200,East,Australia,Delivered
+ORD570,15-08-2023,CUST570,Male,49,Beauty,Lipstick,1,500,500,Central,India,Cancelled
+ORD571,12-12-2023,CUST571,Female,41,Grocery,Basmati Rice 5kg,1,50,50,Central,India,Delivered
+ORD572,20-04-2023,CUST572,Male,31,Fashion,Men T-Shirt,4,500,2000,West,India,Delivered
+ORD573,19-09-2023,CUST573,Male,49,Fashion,Men T-Shirt,2,30,60,North,Australia,Delivered
+ORD574,31-08-2023,CUST574,Female,63,Electronics,Laptop,2,25,50,South,Germany,Returned
+ORD575,28-03-2023,CUST575,Male,60,Electronics,Bluetooth Speaker,2,50,100,Central,Germany,Delivered
+ORD576,04-12-2023,CUST576,Female,33,Stationery,Desk Organizer,3,50,150,Central,USA,Delivered
+ORD577,13-02-2023,CUST577,Male,21,Stationery,Pen Set,4,500,2000,North,India,Delivered
+ORD578,26-05-2023,CUST578,Female,54,Electronics,Smart Watch,4,30,120,East,USA,Delivered
+ORD579,21-09-2023,CUST579,Female,38,Health,Vitamin Tablets,1,30,30,West,Germany,Cancelled
+ORD580,06-12-2023,CUST580,Female,31,Electronics,Headphones,3,500,1500,North,Germany,Delivered
+ORD581,21-11-2023,CUST581,Female,48,Electronics,Laptop,2,30,60,East,Germany,Delivered
+ORD582,14-11-2023,CUST582,Male,35,Fashion,Jeans,3,300,900,North,Germany,Delivered
+ORD583,21-06-2023,CUST583,Female,24,Electronics,Smart Watch,4,25,100,Central,India,Delivered
+ORD584,17-02-2023,CUST584,Female,27,Fashion,Men T-Shirt,4,50,200,West,Germany,Delivered
+ORD585,01-05-2023,CUST585,Female,24,Electronics,Smartphone,1,25,25,South,Australia,Delivered
+ORD586,11-12-2023,CUST586,Male,50,Electronics,Headphones,1,50,50,Central,Germany,Returned
+ORD587,08-06-2023,CUST587,Female,40,Fashion,Jacket,4,300,1200,East,USA,Cancelled
+ORD588,26-04-2023,CUST588,Male,38,Grocery,Wheat Flour 5kg,2,30,60,West,Australia,Cancelled
+ORD589,12-04-2023,CUST589,Female,36,Stationery,Pen Set,2,500,1000,North,USA,Delivered
+ORD590,17-03-2023,CUST590,Male,36,Electronics,Power Bank,3,300,900,Central,Canada,Cancelled
+ORD591,13-01-2023,CUST591,Male,53,Fashion,Handbag,4,25,100,West,Canada,Delivered
+ORD592,24-01-2023,CUST592,Female,46,Electronics,Smart Watch,4,500,2000,North,India,Returned
+ORD593,06-05-2023,CUST593,Male,35,Electronics,Smart Watch,2,30,60,East,India,Delivered
+ORD594,01-09-2023,CUST594,Female,19,Fashion,Handbag,2,300,600,East,USA,Cancelled
+ORD595,09-11-2023,CUST595,Female,18,Beauty,Face Wash,4,500,2000,North,India,Delivered
+ORD596,07-02-2023,CUST596,Female,64,Grocery,Sugar 1kg,1,300,300,North,Germany,Delivered
+ORD597,22-08-2023,CUST597,Male,22,Electronics,Power Bank,4,300,1200,South,USA,Delivered
+ORD598,01-08-2023,CUST598,Male,37,Electronics,Smart Watch,4,30,120,South,Canada,Delivered
+ORD599,19-11-2023,CUST599,Female,28,Grocery,Dry Fruits Pack,2,50,100,Central,USA,Cancelled
+ORD600,22-10-2023,CUST600,Female,59,Electronics,Laptop,2,500,1000,North,Germany,Delivered
+ORD601,10-04-2023,CUST601,Male,19,Fashion,Jeans,1,30,30,West,USA,Delivered
+ORD602,23-12-2023,CUST602,Female,20,Electronics,Bluetooth Speaker,1,300,300,North,India,Delivered
+ORD603,16-07-2023,CUST603,Female,40,Stationery,Office Files,3,30,90,North,India,Cancelled
+ORD604,11-09-2023,CUST604,Female,29,Beauty,Perfume,4,50,200,East,Germany,Delivered
+ORD605,24-07-2023,CUST605,Male,37,Fashion,Jacket,2,500,1000,North,Germany,Delivered
+ORD606,05-05-2023,CUST606,Male,22,Electronics,Smartphone,1,50,50,North,USA,Delivered
+ORD607,17-03-2023,CUST607,Male,54,Grocery,Tea Powder,3,25,75,East,Australia,Delivered
+ORD608,02-12-2023,CUST608,Female,55,Electronics,Laptop,3,500,1500,West,Germany,Delivered
+ORD609,19-12-2023,CUST609,Female,47,Beauty,Sunscreen,2,50,100,Central,Germany,Returned
+ORD610,03-01-2023,CUST610,Female,26,Stationery,Marker Set,2,300,600,West,India,Delivered
+ORD611,24-02-2023,CUST611,Male,51,Fashion,Sneakers,3,500,1500,Central,Australia,Delivered
+ORD612,06-08-2023,CUST612,Female,61,Electronics,Smartphone,1,500,500,North,India,Delivered
+ORD613,23-04-2023,CUST613,Female,52,Health,Protein Powder,3,30,90,South,India,Delivered
+ORD614,01-04-2023,CUST614,Female,39,Home,Bedsheet,4,300,1200,North,India,Cancelled
+ORD615,23-12-2023,CUST615,Female,61,Electronics,Smart Watch,4,25,100,West,USA,Delivered
+ORD616,23-09-2023,CUST616,Male,41,Electronics,Headphones,2,50,100,Central,Canada,Delivered
+ORD617,26-08-2023,CUST617,Male,34,Health,Hand Sanitizer,1,30,30,North,Germany,Delivered
+ORD618,26-01-2023,CUST618,Female,27,Electronics,Headphones,1,50,50,West,USA,Delivered
+ORD619,13-10-2023,CUST619,Male,47,Electronics,Laptop,4,25,100,Central,USA,Delivered
+ORD620,08-05-2023,CUST620,Male,63,Grocery,Basmati Rice 5kg,3,25,75,Central,Australia,Delivered
+ORD621,04-03-2023,CUST621,Female,40,Electronics,Laptop,2,500,1000,South,Canada,Delivered
+ORD622,22-08-2023,CUST622,Female,49,Beauty,Face Wash,3,25,75,North,India,Cancelled
+ORD623,10-03-2023,CUST623,Male,34,Health,Mass Gainer,3,50,150,North,India,Cancelled
+ORD624,26-08-2023,CUST624,Female,34,Fashion,Men T-Shirt,3,300,900,North,Germany,Delivered
+ORD625,08-12-2023,CUST625,Male,31,Beauty,Face Wash,1,300,300,West,India,Delivered
+ORD626,29-09-2023,CUST626,Female,26,Fashion,Jeans,4,500,2000,North,India,Returned
+ORD627,14-10-2023,CUST627,Male,57,Electronics,Bluetooth Speaker,1,50,50,East,India,Cancelled
+ORD628,01-11-2023,CUST628,Female,19,Electronics,Smart Watch,4,50,200,North,USA,Delivered
+ORD629,12-06-2023,CUST629,Male,62,Electronics,Smart Watch,2,25,50,South,Canada,Delivered
+ORD630,15-08-2023,CUST630,Male,42,Fashion,Jacket,2,50,100,South,India,Delivered
+ORD631,10-11-2023,CUST631,Male,56,Electronics,Smartphone,3,30,90,North,USA,Cancelled
+ORD632,16-09-2023,CUST632,Female,26,Fashion,Women Kurti,4,25,100,South,India,Delivered
+ORD633,07-08-2023,CUST633,Male,39,Beauty,Moisturizer,4,30,120,North,India,Delivered
+ORD634,08-10-2023,CUST634,Male,60,Electronics,Laptop,4,500,2000,West,India,Delivered
+ORD635,17-08-2023,CUST635,Female,63,Health,Mass Gainer,3,300,900,South,USA,Delivered
+ORD636,23-03-2023,CUST636,Female,21,Health,Vitamin Tablets,3,500,1500,North,Germany,Delivered
+ORD637,01-09-2023,CUST637,Male,43,Grocery,Wheat Flour 5kg,2,300,600,South,India,Cancelled
+ORD638,19-08-2023,CUST638,Male,46,Electronics,Power Bank,1,500,500,Central,USA,Delivered
+ORD639,13-05-2023,CUST639,Female,62,Electronics,Smartphone,4,50,200,West,USA,Cancelled
+ORD640,07-05-2023,CUST640,Female,51,Grocery,Dry Fruits Pack,4,30,120,South,India,Delivered
+ORD641,23-11-2023,CUST641,Female,40,Electronics,Headphones,1,300,300,Central,India,Cancelled
+ORD642,22-05-2023,CUST642,Female,54,Electronics,Bluetooth Speaker,4,25,100,North,Canada,Delivered
+ORD643,24-09-2023,CUST643,Female,28,Beauty,Lipstick,3,30,90,East,India,Returned
+ORD644,06-09-2023,CUST644,Male,23,Fashion,Men T-Shirt,3,25,75,East,Canada,Delivered
+ORD645,17-11-2023,CUST645,Female,35,Stationery,Printer Paper,4,30,120,South,India,Delivered
+ORD646,03-05-2023,CUST646,Male,38,Beauty,Face Wash,3,30,90,North,India,Delivered
+ORD647,21-05-2023,CUST647,Male,59,Fashion,Sneakers,3,500,1500,North,India,Delivered
+ORD648,14-08-2023,CUST648,Male,53,Home,LED Bulb Pack,4,300,1200,Central,India,Delivered
+ORD649,09-02-2023,CUST649,Female,58,Electronics,Power Bank,2,300,600,North,Australia,Delivered
+ORD650,01-01-2024,CUST650,Male,55,Electronics,Smart Watch,1,30,30,Central,India,Delivered
+ORD651,27-05-2023,CUST651,Male,51,Electronics,Power Bank,3,50,150,East,Germany,Delivered
+ORD652,01-05-2023,CUST652,Female,34,Electronics,Headphones,2,50,100,East,Germany,Delivered
+ORD653,20-05-2023,CUST653,Male,54,Electronics,Smartphone,3,25,75,South,India,Delivered
+ORD654,21-06-2023,CUST654,Male,42,Electronics,Power Bank,3,25,75,Central,India,Delivered
+ORD655,13-06-2023,CUST655,Female,55,Beauty,Sunscreen,1,500,500,West,India,Delivered
+ORD656,04-10-2023,CUST656,Male,29,Grocery,Basmati Rice 5kg,3,30,90,West,India,Delivered
+ORD657,11-02-2023,CUST657,Male,40,Electronics,Bluetooth Speaker,1,25,25,North,Germany,Delivered
+ORD658,12-03-2023,CUST658,Male,59,Fashion,Women Kurti,1,25,25,Central,Germany,Delivered
+ORD659,19-03-2023,CUST659,Female,39,Beauty,Lipstick,1,30,30,South,USA,Delivered
+ORD660,29-04-2023,CUST660,Female,38,Electronics,Smart Watch,2,500,1000,South,Germany,Delivered
+ORD661,16-07-2023,CUST661,Female,44,Grocery,Wheat Flour 5kg,4,25,100,West,Australia,Delivered
+ORD662,22-12-2023,CUST662,Male,48,Electronics,Smart Watch,2,500,1000,North,India,Delivered
+ORD663,20-03-2023,CUST663,Male,23,Home,Mixer Grinder,4,300,1200,East,Australia,Delivered
+ORD664,28-12-2023,CUST664,Female,44,Health,BP Monitor,4,500,2000,West,Germany,Delivered
+ORD665,20-04-2023,CUST665,Male,57,Home,Water Bottle,1,50,50,South,Canada,Delivered
+ORD666,02-02-2023,CUST666,Male,51,Stationery,Marker Set,3,50,150,South,India,Delivered
+ORD667,01-08-2023,CUST667,Female,29,Grocery,Basmati Rice 5kg,1,500,500,Central,USA,Cancelled
+ORD668,28-07-2023,CUST668,Female,62,Electronics,Headphones,3,50,150,North,Australia,Delivered
+ORD669,19-06-2023,CUST669,Male,24,Fashion,Sneakers,4,300,1200,South,USA,Delivered
+ORD670,05-10-2023,CUST670,Male,27,Electronics,Smart Watch,1,30,30,South,India,Delivered
+ORD671,27-08-2023,CUST671,Male,62,Beauty,Lipstick,3,50,150,South,Australia,Delivered
+ORD672,01-08-2023,CUST672,Female,34,Electronics,Laptop,2,50,100,West,Germany,Delivered
+ORD673,01-02-2023,CUST673,Female,43,Electronics,Smartphone,3,500,1500,West,India,Delivered
+ORD674,16-04-2023,CUST674,Female,38,Home,LED Bulb Pack,1,300,300,Central,India,Delivered
+ORD675,04-08-2023,CUST675,Female,45,Home,Pressure Cooker,2,30,60,Central,USA,Cancelled
+ORD676,19-07-2023,CUST676,Male,63,Electronics,Bluetooth Speaker,3,500,1500,South,India,Delivered
+ORD677,27-10-2023,CUST677,Female,19,Fashion,Sneakers,3,500,1500,North,Australia,Cancelled
+ORD678,23-12-2023,CUST678,Female,60,Fashion,Jacket,3,300,900,North,India,Delivered
+ORD679,11-01-2023,CUST679,Female,18,Fashion,Handbag,3,30,90,West,USA,Delivered
+ORD680,22-10-2023,CUST680,Female,53,Grocery,Cooking Oil 1L,3,300,900,North,India,Delivered
+ORD681,14-07-2023,CUST681,Female,43,Stationery,Marker Set,2,30,60,West,Germany,Delivered
+ORD682,02-09-2023,CUST682,Male,46,Beauty,Face Wash,4,300,1200,West,India,Returned
+ORD683,04-01-2023,CUST683,Male,38,Beauty,Shampoo,2,500,1000,North,Australia,Delivered
+ORD684,30-06-2023,CUST684,Female,28,Grocery,Tea Powder,2,500,1000,South,Australia,Delivered
+ORD685,02-06-2023,CUST685,Male,57,Grocery,Wheat Flour 5kg,2,25,50,West,India,Delivered
+ORD686,19-07-2023,CUST686,Female,28,Fashion,Women Kurti,4,50,200,East,USA,Delivered
+ORD687,03-08-2023,CUST687,Female,53,Fashion,Jacket,1,300,300,South,Australia,Delivered
+ORD688,03-10-2023,CUST688,Male,56,Electronics,Smart Watch,4,25,100,Central,India,Cancelled
+ORD689,07-10-2023,CUST689,Male,57,Health,Hand Sanitizer,2,50,100,East,Australia,Delivered
+ORD690,05-11-2023,CUST690,Female,52,Stationery,Printer Paper,3,300,900,East,Australia,Delivered
+ORD691,23-04-2023,CUST691,Female,51,Grocery,Tea Powder,3,30,90,West,Canada,Delivered
+ORD692,07-09-2023,CUST692,Female,64,Fashion,Jacket,2,50,100,East,Australia,Delivered
+ORD693,23-04-2023,CUST693,Male,41,Beauty,Moisturizer,3,500,1500,North,Germany,Delivered
+ORD694,20-05-2023,CUST694,Female,39,Fashion,Jeans,2,25,50,North,USA,Returned
+ORD695,12-08-2023,CUST695,Female,22,Health,Digital Thermometer,3,50,150,West,India,Delivered
+ORD696,06-09-2023,CUST696,Female,50,Electronics,Headphones,4,50,200,South,Canada,Delivered
+ORD697,15-01-2023,CUST697,Male,53,Electronics,Headphones,1,500,500,East,USA,Delivered
+ORD698,19-07-2023,CUST698,Female,64,Home,Pressure Cooker,1,300,300,North,India,Delivered
+ORD699,22-06-2023,CUST699,Female,37,Grocery,Basmati Rice 5kg,4,30,120,South,Australia,Delivered
+ORD700,09-12-2023,CUST700,Male,36,Fashion,Jeans,4,500,2000,West,India,Delivered
+ORD701,14-12-2023,CUST701,Female,52,Electronics,Bluetooth Speaker,2,30,60,North,India,Delivered
+ORD702,27-07-2023,CUST702,Female,60,Home,LED Bulb Pack,2,300,600,South,India,Delivered
+ORD703,26-03-2023,CUST703,Male,34,Electronics,Smartphone,2,50,100,Central,India,Delivered
+ORD704,28-08-2023,CUST704,Female,62,Home,LED Bulb Pack,3,30,90,North,Australia,Returned
+ORD705,07-03-2023,CUST705,Male,60,Fashion,Men T-Shirt,2,25,50,North,Australia,Delivered
+ORD706,15-11-2023,CUST706,Male,51,Health,Protein Powder,4,25,100,West,USA,Delivered
+ORD707,01-10-2023,CUST707,Female,26,Beauty,Moisturizer,1,500,500,North,India,Delivered
+ORD708,14-01-2023,CUST708,Female,43,Electronics,Smart Watch,3,300,900,West,India,Delivered
+ORD709,21-07-2023,CUST709,Female,19,Beauty,Shampoo,2,500,1000,North,Canada,Delivered
+ORD710,31-10-2023,CUST710,Female,26,Electronics,Power Bank,3,500,1500,South,Canada,Delivered
+ORD711,16-10-2023,CUST711,Male,26,Electronics,Headphones,3,500,1500,South,Germany,Delivered
+ORD712,06-12-2023,CUST712,Female,57,Stationery,Pen Set,2,25,50,South,Germany,Returned
+ORD713,14-01-2023,CUST713,Male,34,Fashion,Jacket,3,25,75,North,India,Returned
+ORD714,12-02-2023,CUST714,Female,18,Beauty,Lipstick,1,500,500,North,Australia,Returned
+ORD715,26-11-2023,CUST715,Female,42,Grocery,Basmati Rice 5kg,4,25,100,North,USA,Delivered
+ORD716,08-08-2023,CUST716,Female,60,Electronics,Headphones,4,300,1200,West,Australia,Delivered
+ORD717,11-03-2023,CUST717,Male,57,Fashion,Sneakers,1,500,500,North,India,Delivered
+ORD718,25-08-2023,CUST718,Female,59,Stationery,Notebook Pack,3,25,75,North,Germany,Delivered
+ORD719,04-04-2023,CUST719,Female,42,Fashion,Men T-Shirt,2,30,60,Central,Australia,Delivered
+ORD720,26-01-2023,CUST720,Female,56,Fashion,Jeans,3,500,1500,East,India,Delivered
+ORD721,14-05-2023,CUST721,Female,52,Fashion,Jacket,1,500,500,East,Germany,Delivered
+ORD722,14-07-2023,CUST722,Male,20,Beauty,Shampoo,3,300,900,Central,Germany,Delivered
+ORD723,17-06-2023,CUST723,Female,54,Fashion,Sneakers,4,50,200,Central,Australia,Delivered
+ORD724,19-04-2023,CUST724,Male,61,Electronics,Laptop,3,50,150,Central,Germany,Returned
+ORD725,21-08-2023,CUST725,Male,61,Electronics,Power Bank,1,300,300,West,Canada,Delivered
+ORD726,17-06-2023,CUST726,Male,47,Grocery,Wheat Flour 5kg,4,300,1200,West,Germany,Delivered
+ORD727,22-06-2023,CUST727,Male,55,Fashion,Women Kurti,3,300,900,North,Germany,Delivered
+ORD728,14-07-2023,CUST728,Male,51,Fashion,Jacket,3,50,150,North,Canada,Delivered
+ORD729,23-05-2023,CUST729,Male,29,Electronics,Power Bank,4,300,1200,South,Germany,Returned
+ORD730,04-08-2023,CUST730,Female,36,Beauty,Lipstick,2,25,50,North,Canada,Delivered
+ORD731,10-05-2023,CUST731,Male,54,Fashion,Jacket,4,500,2000,North,Germany,Delivered
+ORD732,11-02-2023,CUST732,Male,61,Health,Digital Thermometer,2,500,1000,East,Canada,Cancelled
+ORD733,29-08-2023,CUST733,Male,34,Electronics,Smartphone,1,30,30,East,Germany,Cancelled
+ORD734,10-01-2023,CUST734,Female,27,Electronics,Power Bank,1,30,30,North,USA,Delivered
+ORD735,04-10-2023,CUST735,Female,64,Electronics,Laptop,4,500,2000,West,Australia,Delivered
+ORD736,27-01-2023,CUST736,Male,29,Fashion,Men T-Shirt,4,25,100,South,USA,Delivered
+ORD737,29-06-2023,CUST737,Female,33,Fashion,Women Kurti,1,50,50,South,USA,Delivered
+ORD738,25-04-2023,CUST738,Male,41,Electronics,Bluetooth Speaker,2,50,100,East,India,Cancelled
+ORD739,29-11-2023,CUST739,Male,36,Fashion,Women Kurti,1,25,25,Central,Germany,Delivered
+ORD740,05-02-2023,CUST740,Female,25,Electronics,Smartphone,4,50,200,North,Canada,Returned
+ORD741,30-11-2023,CUST741,Male,48,Fashion,Handbag,1,300,300,West,Canada,Cancelled
+ORD742,21-01-2023,CUST742,Female,38,Fashion,Jacket,4,500,2000,East,Canada,Delivered
+ORD743,16-01-2023,CUST743,Female,34,Electronics,Smart Watch,4,500,2000,North,India,Returned
+ORD744,07-05-2023,CUST744,Male,40,Fashion,Sneakers,1,25,25,North,Australia,Delivered
+ORD745,13-04-2023,CUST745,Male,54,Home,Bedsheet,2,50,100,South,India,Delivered
+ORD746,11-01-2023,CUST746,Female,33,Stationery,Desk Organizer,3,30,90,West,USA,Returned
+ORD747,15-11-2023,CUST747,Male,23,Health,Digital Thermometer,1,30,30,North,USA,Delivered
+ORD748,20-03-2023,CUST748,Male,25,Stationery,Desk Organizer,3,50,150,South,Australia,Delivered
+ORD749,03-05-2023,CUST749,Male,42,Grocery,Cooking Oil 1L,1,30,30,North,India,Returned
+ORD750,06-03-2023,CUST750,Female,35,Fashion,Sneakers,3,25,75,South,Germany,Delivered
+ORD751,31-08-2023,CUST751,Female,42,Electronics,Headphones,2,25,50,West,Australia,Delivered
+ORD752,09-12-2023,CUST752,Male,29,Grocery,Basmati Rice 5kg,2,50,100,East,India,Delivered
+ORD753,28-02-2023,CUST753,Female,32,Fashion,Men T-Shirt,1,30,30,North,Canada,Delivered
+ORD754,16-10-2023,CUST754,Female,43,Fashion,Sneakers,4,25,100,East,India,Returned
+ORD755,22-04-2023,CUST755,Female,58,Fashion,Handbag,3,25,75,North,Germany,Delivered
+ORD756,27-08-2023,CUST756,Female,62,Electronics,Laptop,4,300,1200,North,Germany,Delivered
+ORD757,25-12-2023,CUST757,Female,43,Health,Vitamin Tablets,4,300,1200,West,Canada,Delivered
+ORD758,12-05-2023,CUST758,Male,64,Electronics,Laptop,4,25,100,North,USA,Cancelled
+ORD759,08-07-2023,CUST759,Male,49,Electronics,Laptop,2,50,100,Central,India,Delivered
+ORD760,27-03-2023,CUST760,Male,27,Electronics,Laptop,1,500,500,South,India,Delivered
+ORD761,07-11-2023,CUST761,Female,33,Health,Digital Thermometer,1,500,500,East,India,Delivered
+ORD762,07-11-2023,CUST762,Female,24,Electronics,Laptop,2,25,50,North,Australia,Delivered
+ORD763,28-02-2023,CUST763,Male,34,Stationery,Printer Paper,2,25,50,North,USA,Delivered
+ORD764,25-03-2023,CUST764,Female,40,Stationery,Office Files,1,25,25,North,Canada,Delivered
+ORD765,09-06-2023,CUST765,Male,43,Health,Protein Powder,4,50,200,South,Australia,Delivered
+ORD766,25-02-2023,CUST766,Male,38,Beauty,Sunscreen,3,300,900,West,Germany,Returned
+ORD767,24-10-2023,CUST767,Male,39,Grocery,Sugar 1kg,3,25,75,West,India,Delivered
+ORD768,14-01-2023,CUST768,Female,24,Health,Digital Thermometer,3,25,75,North,India,Delivered
+ORD769,09-06-2023,CUST769,Female,31,Grocery,Dry Fruits Pack,4,30,120,West,India,Delivered
+ORD770,22-10-2023,CUST770,Male,32,Electronics,Smartphone,1,50,50,North,Australia,Returned
+ORD771,13-12-2023,CUST771,Male,24,Health,Hand Sanitizer,2,25,50,North,India,Delivered
+ORD772,12-07-2023,CUST772,Male,26,Grocery,Tea Powder,1,30,30,South,Germany,Delivered
+ORD773,23-07-2023,CUST773,Male,25,Electronics,Laptop,4,500,2000,East,USA,Delivered
+ORD774,12-04-2023,CUST774,Female,40,Electronics,Power Bank,2,25,50,East,Canada,Delivered
+ORD775,08-02-2023,CUST775,Female,46,Electronics,Bluetooth Speaker,4,25,100,South,USA,Delivered
+ORD776,31-10-2023,CUST776,Male,35,Fashion,Women Kurti,3,30,90,South,Canada,Delivered
+ORD777,20-12-2023,CUST777,Male,48,Electronics,Bluetooth Speaker,3,50,150,East,USA,Delivered
+ORD778,18-11-2023,CUST778,Female,47,Electronics,Smart Watch,4,25,100,North,USA,Delivered
+ORD779,05-05-2023,CUST779,Female,56,Health,Hand Sanitizer,2,500,1000,North,India,Delivered
+ORD780,22-02-2023,CUST780,Male,52,Grocery,Dry Fruits Pack,2,25,50,West,USA,Delivered
+ORD781,23-12-2023,CUST781,Male,35,Electronics,Laptop,1,500,500,West,Germany,Delivered
+ORD782,04-06-2023,CUST782,Male,59,Grocery,Tea Powder,3,300,900,North,USA,Returned
+ORD783,17-12-2023,CUST783,Female,56,Beauty,Face Wash,1,300,300,North,Germany,Delivered
+ORD784,04-11-2023,CUST784,Female,34,Health,Protein Powder,1,500,500,South,Canada,Delivered
+ORD785,03-03-2023,CUST785,Female,31,Fashion,Men T-Shirt,4,50,200,South,USA,Delivered
+ORD786,17-10-2023,CUST786,Male,48,Electronics,Laptop,4,25,100,South,USA,Delivered
+ORD787,22-01-2023,CUST787,Male,41,Electronics,Bluetooth Speaker,1,25,25,Central,Canada,Delivered
+ORD788,27-06-2023,CUST788,Female,52,Fashion,Jeans,3,300,900,North,India,Returned
+ORD789,30-09-2023,CUST789,Female,61,Grocery,Dry Fruits Pack,4,500,2000,Central,Germany,Delivered
+ORD790,08-08-2023,CUST790,Male,62,Health,Hand Sanitizer,1,25,25,East,Canada,Delivered
+ORD791,05-12-2023,CUST791,Female,51,Fashion,Handbag,1,25,25,North,Australia,Delivered
+ORD792,09-07-2023,CUST792,Female,20,Fashion,Sneakers,1,50,50,South,India,Delivered
+ORD793,05-02-2023,CUST793,Male,54,Beauty,Face Wash,1,30,30,West,Germany,Cancelled
+ORD794,17-09-2023,CUST794,Female,60,Grocery,Wheat Flour 5kg,1,300,300,North,USA,Delivered
+ORD795,28-11-2023,CUST795,Male,57,Electronics,Bluetooth Speaker,1,300,300,South,Germany,Delivered
+ORD796,24-06-2023,CUST796,Male,43,Fashion,Jeans,4,30,120,East,Australia,Delivered
+ORD797,07-01-2023,CUST797,Male,40,Beauty,Sunscreen,3,25,75,South,Australia,Returned
+ORD798,04-08-2023,CUST798,Male,61,Stationery,Marker Set,1,50,50,North,USA,Delivered
+ORD799,08-09-2023,CUST799,Male,56,Fashion,Jeans,2,50,100,North,USA,Delivered
+ORD800,24-02-2023,CUST800,Male,32,Electronics,Headphones,4,300,1200,North,USA,Delivered
+ORD801,10-08-2023,CUST801,Male,21,Fashion,Women Kurti,4,50,200,South,India,Delivered
+ORD802,05-07-2023,CUST802,Female,46,Stationery,Pen Set,1,30,30,West,India,Delivered
+ORD803,22-11-2023,CUST803,Male,39,Electronics,Bluetooth Speaker,4,25,100,North,India,Delivered
+ORD804,24-08-2023,CUST804,Male,42,Electronics,Laptop,1,30,30,Central,Canada,Delivered
+ORD805,29-12-2023,CUST805,Female,30,Health,Digital Thermometer,3,500,1500,West,India,Delivered
+ORD806,20-03-2023,CUST806,Female,35,Fashion,Women Kurti,3,300,900,South,Germany,Delivered
+ORD807,11-08-2023,CUST807,Female,50,Electronics,Bluetooth Speaker,4,50,200,North,Germany,Cancelled
+ORD808,01-04-2023,CUST808,Male,33,Electronics,Laptop,4,500,2000,North,India,Delivered
+ORD809,25-09-2023,CUST809,Female,62,Grocery,Basmati Rice 5kg,2,50,100,South,Canada,Returned
+ORD810,30-11-2023,CUST810,Male,59,Fashion,Jacket,4,25,100,West,India,Delivered
+ORD811,19-05-2023,CUST811,Male,61,Fashion,Handbag,2,25,50,North,India,Cancelled
+ORD812,12-11-2023,CUST812,Male,19,Grocery,Sugar 1kg,3,25,75,Central,Canada,Delivered
+ORD813,03-10-2023,CUST813,Male,52,Electronics,Smart Watch,3,50,150,East,India,Delivered
+ORD814,05-09-2023,CUST814,Female,59,Stationery,Pen Set,1,500,500,South,India,Delivered
+ORD815,27-08-2023,CUST815,Female,51,Grocery,Tea Powder,3,25,75,West,India,Delivered
+ORD816,12-08-2023,CUST816,Male,47,Grocery,Cooking Oil 1L,2,500,1000,East,USA,Delivered
+ORD817,31-10-2023,CUST817,Male,30,Health,Digital Thermometer,4,50,200,North,Canada,Cancelled
+ORD818,18-05-2023,CUST818,Male,30,Electronics,Headphones,1,500,500,North,Canada,Delivered
+ORD819,15-06-2023,CUST819,Female,35,Health,Vitamin Tablets,2,50,100,South,Germany,Delivered
+ORD820,06-05-2023,CUST820,Male,49,Fashion,Jeans,4,50,200,South,USA,Delivered
+ORD821,14-02-2023,CUST821,Male,49,Electronics,Smartphone,1,300,300,Central,USA,Returned
+ORD822,23-05-2023,CUST822,Female,52,Beauty,Moisturizer,3,50,150,East,India,Delivered
+ORD823,19-08-2023,CUST823,Female,56,Beauty,Shampoo,2,50,100,East,USA,Delivered
+ORD824,05-05-2023,CUST824,Male,63,Health,Protein Powder,4,30,120,South,India,Cancelled
+ORD825,26-08-2023,CUST825,Female,46,Electronics,Laptop,1,25,25,South,Germany,Delivered
+ORD826,19-10-2023,CUST826,Female,46,Electronics,Smart Watch,1,300,300,North,India,Delivered
+ORD827,09-11-2023,CUST827,Male,61,Beauty,Moisturizer,3,300,900,South,Germany,Delivered
+ORD828,09-12-2023,CUST828,Female,33,Electronics,Laptop,4,300,1200,South,India,Delivered
+ORD829,14-07-2023,CUST829,Male,61,Fashion,Women Kurti,3,30,90,East,India,Delivered
+ORD830,22-06-2023,CUST830,Female,64,Health,Mass Gainer,3,50,150,South,India,Delivered
+ORD831,15-01-2023,CUST831,Male,27,Beauty,Lipstick,4,25,100,West,India,Delivered
+ORD832,11-09-2023,CUST832,Male,47,Electronics,Bluetooth Speaker,4,500,2000,Central,India,Delivered
+ORD833,16-06-2023,CUST833,Male,42,Electronics,Laptop,4,50,200,West,USA,Delivered
+ORD834,04-04-2023,CUST834,Female,56,Electronics,Smartphone,2,30,60,West,Germany,Delivered
+ORD835,07-09-2023,CUST835,Male,37,Fashion,Jacket,4,50,200,North,India,Delivered
+ORD836,19-04-2023,CUST836,Female,22,Fashion,Jeans,1,50,50,North,India,Cancelled
+ORD837,01-07-2023,CUST837,Male,18,Grocery,Basmati Rice 5kg,3,30,90,West,India,Delivered
+ORD838,13-05-2023,CUST838,Male,47,Fashion,Jeans,2,300,600,Central,USA,Delivered
+ORD839,24-06-2023,CUST839,Female,20,Electronics,Bluetooth Speaker,4,300,1200,East,Canada,Delivered
+ORD840,24-05-2023,CUST840,Male,62,Grocery,Cooking Oil 1L,2,25,50,North,Australia,Delivered
+ORD841,02-11-2023,CUST841,Male,31,Beauty,Shampoo,4,25,100,South,Canada,Delivered
+ORD842,26-12-2023,CUST842,Female,47,Stationery,Desk Organizer,2,300,600,South,Germany,Cancelled
+ORD843,22-05-2023,CUST843,Male,21,Electronics,Laptop,3,500,1500,East,India,Delivered
+ORD844,12-10-2023,CUST844,Male,35,Electronics,Smart Watch,3,50,150,South,Australia,Delivered
+ORD845,06-01-2023,CUST845,Male,54,Health,Protein Powder,1,500,500,West,India,Delivered
+ORD846,22-09-2023,CUST846,Male,42,Electronics,Smart Watch,1,50,50,West,India,Delivered
+ORD847,08-04-2023,CUST847,Female,18,Beauty,Face Wash,4,300,1200,South,Canada,Delivered
+ORD848,13-02-2023,CUST848,Female,63,Fashion,Women Kurti,3,25,75,East,Canada,Delivered
+ORD849,04-05-2023,CUST849,Male,32,Grocery,Cooking Oil 1L,2,25,50,West,India,Delivered
+ORD850,28-07-2023,CUST850,Female,26,Grocery,Wheat Flour 5kg,2,500,1000,South,Germany,Delivered
+ORD851,08-09-2023,CUST851,Male,32,Fashion,Women Kurti,2,25,50,North,Australia,Delivered
+ORD852,12-10-2023,CUST852,Female,41,Beauty,Sunscreen,1,300,300,South,Australia,Returned
+ORD853,04-05-2023,CUST853,Male,21,Fashion,Handbag,2,500,1000,South,Germany,Delivered
+ORD854,20-12-2023,CUST854,Male,29,Health,Protein Powder,1,50,50,Central,Canada,Delivered
+ORD855,01-09-2023,CUST855,Male,54,Fashion,Men T-Shirt,1,25,25,South,USA,Delivered
+ORD856,27-11-2023,CUST856,Male,54,Fashion,Jacket,4,30,120,West,Australia,Delivered
+ORD857,31-12-2023,CUST857,Male,60,Electronics,Headphones,2,25,50,West,USA,Cancelled
+ORD858,09-09-2023,CUST858,Male,23,Fashion,Women Kurti,2,50,100,Central,USA,Delivered
+ORD859,18-08-2023,CUST859,Female,56,Beauty,Sunscreen,3,500,1500,North,India,Cancelled
+ORD860,09-01-2023,CUST860,Male,63,Fashion,Jeans,4,50,200,West,USA,Returned
+ORD861,17-02-2023,CUST861,Female,41,Fashion,Sneakers,3,30,90,South,USA,Delivered
+ORD862,31-05-2023,CUST862,Male,28,Beauty,Shampoo,4,300,1200,South,Australia,Delivered
+ORD863,24-04-2023,CUST863,Female,30,Fashion,Jeans,2,25,50,Central,Canada,Cancelled
+ORD864,27-07-2023,CUST864,Female,51,Stationery,Marker Set,1,500,500,West,USA,Delivered
+ORD865,21-12-2023,CUST865,Female,42,Electronics,Headphones,1,300,300,Central,Germany,Delivered
+ORD866,05-05-2023,CUST866,Male,24,Stationery,Notebook Pack,1,50,50,East,Canada,Delivered
+ORD867,06-06-2023,CUST867,Male,21,Fashion,Jacket,1,500,500,West,Canada,Delivered
+ORD868,06-12-2023,CUST868,Female,25,Home,Pressure Cooker,1,300,300,North,USA,Delivered
+ORD869,25-10-2023,CUST869,Male,37,Fashion,Men T-Shirt,3,500,1500,North,India,Delivered
+ORD870,08-07-2023,CUST870,Female,46,Fashion,Jeans,4,30,120,East,Canada,Delivered
+ORD871,31-08-2023,CUST871,Male,62,Beauty,Sunscreen,2,30,60,North,USA,Delivered
+ORD872,11-10-2023,CUST872,Female,63,Grocery,Sugar 1kg,3,25,75,West,India,Delivered
+ORD873,29-09-2023,CUST873,Female,27,Beauty,Lipstick,4,25,100,North,Canada,Delivered
+ORD874,26-06-2023,CUST874,Male,60,Health,Digital Thermometer,1,30,30,East,USA,Delivered
+ORD875,06-08-2023,CUST875,Female,51,Grocery,Sugar 1kg,4,500,2000,North,Canada,Delivered
+ORD876,09-10-2023,CUST876,Male,43,Electronics,Power Bank,4,30,120,South,Canada,Delivered
+ORD877,19-06-2023,CUST877,Female,58,Electronics,Power Bank,1,25,25,North,India,Delivered
+ORD878,30-06-2023,CUST878,Female,20,Electronics,Bluetooth Speaker,1,30,30,East,Germany,Cancelled
+ORD879,26-12-2023,CUST879,Male,23,Grocery,Sugar 1kg,1,30,30,Central,Germany,Cancelled
+ORD880,21-08-2023,CUST880,Male,22,Fashion,Men T-Shirt,2,500,1000,West,Germany,Delivered
+ORD881,19-05-2023,CUST881,Male,22,Fashion,Men T-Shirt,1,300,300,North,India,Delivered
+ORD882,06-06-2023,CUST882,Female,64,Home,Mixer Grinder,2,25,50,South,Australia,Delivered
+ORD883,09-05-2023,CUST883,Male,40,Stationery,Marker Set,1,500,500,East,India,Delivered
+ORD884,29-04-2023,CUST884,Female,26,Fashion,Men T-Shirt,2,30,60,North,India,Delivered
+ORD885,03-03-2023,CUST885,Female,52,Grocery,Cooking Oil 1L,4,30,120,East,India,Delivered
+ORD886,09-04-2023,CUST886,Male,37,Fashion,Jacket,3,300,900,North,India,Delivered
+ORD887,11-06-2023,CUST887,Male,59,Electronics,Smart Watch,4,25,100,Central,Australia,Delivered
+ORD888,03-03-2023,CUST888,Female,52,Electronics,Bluetooth Speaker,4,25,100,South,India,Delivered
+ORD889,02-10-2023,CUST889,Female,35,Fashion,Men T-Shirt,1,50,50,West,Germany,Delivered
+ORD890,20-12-2023,CUST890,Male,34,Fashion,Jacket,2,25,50,East,Australia,Cancelled
+ORD891,05-04-2023,CUST891,Male,41,Grocery,Sugar 1kg,3,300,900,East,India,Delivered
+ORD892,09-04-2023,CUST892,Male,20,Grocery,Dry Fruits Pack,1,50,50,South,India,Cancelled
+ORD893,21-04-2023,CUST893,Male,49,Electronics,Headphones,1,50,50,North,USA,Cancelled
+ORD894,05-09-2023,CUST894,Male,52,Fashion,Handbag,1,30,30,Central,India,Delivered
+ORD895,22-05-2023,CUST895,Female,55,Electronics,Power Bank,4,30,120,East,Canada,Returned
+ORD896,29-10-2023,CUST896,Female,30,Fashion,Handbag,2,25,50,East,Australia,Delivered
+ORD897,26-09-2023,CUST897,Female,64,Grocery,Sugar 1kg,2,50,100,North,India,Delivered
+ORD898,02-11-2023,CUST898,Female,42,Fashion,Jacket,3,30,90,West,India,Delivered
+ORD899,25-05-2023,CUST899,Male,26,Electronics,Laptop,2,300,600,Central,India,Returned
+ORD900,21-02-2023,CUST900,Male,21,Health,Mass Gainer,2,30,60,West,USA,Delivered
+ORD901,10-04-2023,CUST901,Male,31,Home,Wall Clock,1,30,30,North,Germany,Delivered
+ORD902,01-06-2023,CUST902,Female,54,Health,Vitamin Tablets,1,50,50,East,Germany,Delivered
+ORD903,27-04-2023,CUST903,Female,51,Electronics,Power Bank,4,50,200,East,Canada,Returned
+ORD904,04-07-2023,CUST904,Male,28,Health,Mass Gainer,1,500,500,Central,USA,Returned
+ORD905,02-04-2023,CUST905,Male,58,Grocery,Sugar 1kg,1,300,300,South,USA,Delivered
+ORD906,04-06-2023,CUST906,Female,20,Electronics,Smartphone,1,50,50,West,USA,Returned
+ORD907,08-01-2023,CUST907,Female,45,Health,Protein Powder,1,25,25,East,USA,Delivered
+ORD908,29-12-2023,CUST908,Male,46,Grocery,Cooking Oil 1L,4,300,1200,North,Canada,Delivered
+ORD909,01-10-2023,CUST909,Male,26,Beauty,Moisturizer,1,300,300,South,India,Returned
+ORD910,06-03-2023,CUST910,Female,20,Electronics,Smartphone,3,50,150,Central,USA,Delivered
+ORD911,21-05-2023,CUST911,Male,42,Electronics,Laptop,3,300,900,North,Canada,Delivered
+ORD912,24-01-2023,CUST912,Male,51,Fashion,Sneakers,3,50,150,South,Canada,Delivered
+ORD913,28-01-2023,CUST913,Male,29,Electronics,Smart Watch,3,30,90,North,USA,Delivered
+ORD914,11-10-2023,CUST914,Female,59,Electronics,Smart Watch,1,500,500,North,Canada,Delivered
+ORD915,30-05-2023,CUST915,Female,26,Grocery,Wheat Flour 5kg,3,30,90,West,Australia,Delivered
+ORD916,24-12-2023,CUST916,Female,32,Fashion,Sneakers,1,50,50,South,Germany,Delivered
+ORD917,06-03-2023,CUST917,Female,57,Beauty,Perfume,4,50,200,East,USA,Delivered
+ORD918,23-11-2023,CUST918,Female,42,Fashion,Jacket,3,30,90,South,USA,Delivered
+ORD919,09-09-2023,CUST919,Female,22,Electronics,Smartphone,2,25,50,East,India,Delivered
+ORD920,22-02-2023,CUST920,Female,28,Fashion,Women Kurti,3,25,75,North,India,Cancelled
+ORD921,07-01-2023,CUST921,Male,51,Beauty,Shampoo,3,25,75,North,USA,Delivered
+ORD922,21-10-2023,CUST922,Male,41,Health,Protein Powder,1,50,50,East,India,Delivered
+ORD923,26-05-2023,CUST923,Male,32,Home,Bedsheet,3,300,900,North,India,Delivered
+ORD924,29-08-2023,CUST924,Male,55,Grocery,Tea Powder,2,50,100,South,Canada,Delivered
+ORD925,03-09-2023,CUST925,Male,25,Electronics,Bluetooth Speaker,1,300,300,North,Germany,Cancelled
+ORD926,14-08-2023,CUST926,Male,22,Fashion,Women Kurti,1,30,30,Central,India,Delivered
+ORD927,24-06-2023,CUST927,Male,43,Beauty,Perfume,4,500,2000,West,USA,Delivered
+ORD928,05-04-2023,CUST928,Female,35,Electronics,Smartphone,4,300,1200,East,India,Delivered
+ORD929,27-01-2023,CUST929,Female,23,Grocery,Cooking Oil 1L,3,25,75,West,Australia,Delivered
+ORD930,10-05-2023,CUST930,Male,54,Fashion,Jeans,4,50,200,West,Australia,Delivered
+ORD931,02-09-2023,CUST931,Male,30,Electronics,Headphones,4,30,120,West,Canada,Cancelled
+ORD932,28-02-2023,CUST932,Female,45,Fashion,Men T-Shirt,4,25,100,North,USA,Delivered
+ORD933,03-02-2023,CUST933,Male,22,Stationery,Office Files,1,30,30,South,Australia,Delivered
+ORD934,25-07-2023,CUST934,Male,30,Beauty,Shampoo,1,500,500,East,Canada,Returned
+ORD935,09-09-2023,CUST935,Female,34,Beauty,Lipstick,1,50,50,East,India,Delivered
+ORD936,07-02-2023,CUST936,Male,57,Electronics,Smartphone,4,50,200,North,Germany,Returned
+ORD937,23-10-2023,CUST937,Female,62,Fashion,Women Kurti,1,500,500,Central,Canada,Delivered
+ORD938,19-11-2023,CUST938,Male,49,Grocery,Dry Fruits Pack,4,50,200,North,USA,Delivered
+ORD939,18-12-2023,CUST939,Female,46,Electronics,Laptop,1,300,300,East,Australia,Delivered
+ORD940,28-01-2023,CUST940,Female,20,Fashion,Jacket,1,30,30,North,India,Delivered
+ORD941,19-03-2023,CUST941,Female,57,Health,Protein Powder,2,25,50,Central,USA,Delivered
+ORD942,18-03-2023,CUST942,Male,51,Electronics,Power Bank,3,500,1500,North,India,Delivered
+ORD943,16-10-2023,CUST943,Female,57,Beauty,Lipstick,4,300,1200,Central,Canada,Delivered
+ORD944,05-06-2023,CUST944,Male,44,Grocery,Cooking Oil 1L,2,25,50,South,India,Delivered
+ORD945,13-02-2023,CUST945,Male,30,Home,Mixer Grinder,1,25,25,East,India,Delivered
+ORD946,08-05-2023,CUST946,Male,62,Electronics,Headphones,4,500,2000,East,Germany,Delivered
+ORD947,02-03-2023,CUST947,Male,50,Health,Vitamin Tablets,1,300,300,North,Germany,Delivered
+ORD948,13-10-2023,CUST948,Female,23,Electronics,Smartphone,3,25,75,East,India,Delivered
+ORD949,02-08-2023,CUST949,Female,41,Health,Hand Sanitizer,2,25,50,East,USA,Delivered
+ORD950,07-11-2023,CUST950,Male,36,Grocery,Cooking Oil 1L,3,300,900,East,India,Delivered
+ORD951,02-11-2023,CUST951,Male,33,Fashion,Sneakers,2,50,100,West,USA,Cancelled
+ORD952,13-11-2023,CUST952,Female,57,Grocery,Dry Fruits Pack,1,25,25,North,USA,Delivered
+ORD953,26-04-2023,CUST953,Male,45,Home,Wall Clock,3,30,90,Central,Canada,Delivered
+ORD954,25-09-2023,CUST954,Female,50,Grocery,Dry Fruits Pack,3,300,900,South,India,Delivered
+ORD955,14-07-2023,CUST955,Male,58,Fashion,Men T-Shirt,1,25,25,North,Germany,Delivered
+ORD956,19-08-2023,CUST956,Male,30,Home,Mixer Grinder,3,500,1500,North,Germany,Cancelled
+ORD957,15-08-2023,CUST957,Female,60,Electronics,Laptop,4,30,120,North,India,Delivered
+ORD958,02-06-2023,CUST958,Male,62,Grocery,Tea Powder,2,25,50,North,Canada,Cancelled
+ORD959,29-10-2023,CUST959,Female,42,Beauty,Lipstick,2,30,60,North,Germany,Cancelled
+ORD960,08-08-2023,CUST960,Male,59,Home,LED Bulb Pack,2,30,60,West,India,Delivered
+ORD961,06-06-2023,CUST961,Male,53,Electronics,Smart Watch,4,50,200,North,Germany,Delivered
+ORD962,19-10-2023,CUST962,Male,44,Fashion,Jeans,2,30,60,North,India,Delivered
+ORD963,14-11-2023,CUST963,Female,55,Electronics,Headphones,1,50,50,North,USA,Cancelled
+ORD964,31-01-2023,CUST964,Male,24,Health,Digital Thermometer,3,300,900,South,Australia,Delivered
+ORD965,09-11-2023,CUST965,Male,22,Health,BP Monitor,4,50,200,North,India,Cancelled
+ORD966,20-02-2023,CUST966,Male,60,Fashion,Handbag,2,500,1000,South,USA,Delivered
+ORD967,17-04-2023,CUST967,Male,62,Fashion,Jeans,1,25,25,North,Australia,Cancelled
+ORD968,17-11-2023,CUST968,Female,48,Beauty,Moisturizer,3,300,900,West,India,Delivered
+ORD969,19-04-2023,CUST969,Female,40,Electronics,Power Bank,3,300,900,West,India,Delivered
+ORD970,16-05-2023,CUST970,Male,59,Stationery,Office Files,4,500,2000,Central,USA,Delivered
+ORD971,05-12-2023,CUST971,Female,27,Fashion,Sneakers,4,50,200,North,India,Delivered
+ORD972,11-02-2023,CUST972,Male,49,Electronics,Headphones,4,25,100,North,Germany,Delivered
+ORD973,22-03-2023,CUST973,Male,60,Grocery,Dry Fruits Pack,1,50,50,North,Australia,Cancelled
+ORD974,03-05-2023,CUST974,Male,47,Electronics,Laptop,1,30,30,South,USA,Cancelled
+ORD975,30-03-2023,CUST975,Female,56,Beauty,Lipstick,4,50,200,West,Canada,Delivered
+ORD976,10-10-2023,CUST976,Female,48,Home,Pressure Cooker,2,300,600,West,India,Delivered
+ORD977,08-02-2023,CUST977,Female,35,Grocery,Dry Fruits Pack,3,25,75,North,Canada,Cancelled
+ORD978,22-03-2023,CUST978,Female,53,Electronics,Headphones,3,50,150,Central,Canada,Delivered
+ORD979,02-01-2023,CUST979,Female,19,Fashion,Handbag,1,25,25,West,India,Cancelled
+ORD980,29-07-2023,CUST980,Female,31,Fashion,Sneakers,3,25,75,West,Canada,Delivered
+ORD981,19-08-2023,CUST981,Female,30,Fashion,Sneakers,2,30,60,South,India,Delivered
+ORD982,19-12-2023,CUST982,Female,46,Grocery,Basmati Rice 5kg,3,30,90,North,Germany,Cancelled
+ORD983,01-11-2023,CUST983,Female,29,Electronics,Power Bank,1,300,300,West,India,Cancelled
+ORD984,29-08-2023,CUST984,Male,56,Home,LED Bulb Pack,1,500,500,North,Australia,Delivered
+ORD985,30-05-2023,CUST985,Female,19,Beauty,Moisturizer,2,25,50,South,India,Delivered
+ORD986,17-01-2023,CUST986,Female,49,Electronics,Headphones,2,500,1000,North,Germany,Delivered
+ORD987,29-04-2023,CUST987,Female,30,Electronics,Smartphone,3,300,900,South,USA,Returned
+ORD988,28-05-2023,CUST988,Female,63,Stationery,Notebook Pack,3,25,75,South,Australia,Returned
+ORD989,28-12-2023,CUST989,Female,44,Health,Mass Gainer,1,25,25,West,Canada,Cancelled
+ORD990,25-05-2023,CUST990,Female,58,Health,Protein Powder,2,500,1000,South,Australia,Delivered
+ORD991,26-12-2023,CUST991,Female,34,Electronics,Bluetooth Speaker,2,50,100,Central,USA,Delivered
+ORD992,21-08-2023,CUST992,Female,57,Electronics,Smartphone,2,30,60,West,USA,Delivered
+ORD993,06-02-2023,CUST993,Female,48,Fashion,Handbag,3,50,150,South,India,Delivered
+ORD994,18-12-2023,CUST994,Female,51,Beauty,Shampoo,2,500,1000,West,Australia,Delivered
+ORD995,30-04-2023,CUST995,Female,41,Fashion,Jeans,1,30,30,East,India,Delivered
+ORD996,16-05-2023,CUST996,Male,62,Electronics,Headphones,1,50,50,North,Germany,Delivered
+ORD997,17-11-2023,CUST997,Male,52,Fashion,Women Kurti,3,30,90,East,Australia,Delivered
+ORD998,29-10-2023,CUST998,Female,23,Grocery,Dry Fruits Pack,4,25,100,North,Germany,Cancelled
+ORD999,05-12-2023,CUST999,Female,36,Electronics,Headphones,3,50,150,West,India,Delivered
+ORD1000,12-04-2023,CUST1000,Male,42,Beauty,Lipstick,4,30,120,North,Australia,Delivered
